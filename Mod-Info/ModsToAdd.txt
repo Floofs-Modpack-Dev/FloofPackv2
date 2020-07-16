@@ -1,0 +1,45 @@
+List Of Mods To Add As Of 22/12/19
+
+IC2 Tweaker
+Demagnetize
+Just Enough Energetics (JEE)
+Just Enough Petroleum
+Just Enough Throwing in Fluids
+Lapis Stays in the Enchanting Table
+Pam's HarvestCraft
+Cooking for Blockheads
+Farming for Blockheads
+Spice of Life: Carrot Edition
+Colytra
+
+26/12/19
+Tails
+FoxLib
+Immersive Floofs
+
+5/01/2020
+Immersive Railroading
+
+9/1/2020
+CEU
+
+10/1/2020
+Apple Skin
+Mystical Agradditions
+IE Cloche Compat/MystAgrad Cloche Compat
+Better Questing - Forestry Expansion
+
+15/1/2020
+Fast Leave Decay
+Thaumic Inventory Scanning
+Thaumic Tinkerer
+Thaumic Energistics
+Crafting Tweaks
+Research Table
+Kiwi
+Waila Harvestability
+Together Forever
+Toast Control
+
+22/1/2020
+Item Stages

@@ -1,0 +1,145 @@
+List Of Mods As Of 22/12/2019
+
+Advanced Rocketry
+Advanced Rocketry Tweaker (AR Tweaker)
+AE2 Wireless Terminal Library
+Akashic Tome
+Applied Energistics 2
+Astral Sorcery
+AutoRegLib
+baubles
+BdLib
+Better Advancements
+Better Builders Wands
+Better Questing
+Better Questing - Quest Book
+Better Questing - Standard Expansion
+Block Drops (JEI Addon)
+Bookshelf
+Botania
+Chameleon
+Chisel
+CodeChicken Lib 1.8.+
+CoFh Core
+CoFh World
+Common Capabilities
+ComputerCraft
+ConnectedTexturesMod
+Controlling
+CraftTweaker
+Cucumber Library
+Custom Main Menu
+Cyclops Core
+Dimension Stages
+Ender IO
+Ender Tweaker
+EnderCore
+Extended Crafting
+External Tweaker  //Used For Recipe Dev
+Extra Utilities
+ExtraCells2
+FoamFix
+Forestry
+FTB Backups
+FTB Library
+FTB Utilities
+Game Stages
+Gendustry
+Gendustry JEI Addon
+GregTech Community Edition
+Hwyla
+Immersive Cables
+Immersive Engineering
+Immersive Petroleum
+Immersive Tech
+Industrial Craft
+Integrated Crafting
+Integrated Dynamics
+Integrated REST
+Integrated Terminals
+Integrated Tunnels
+Invetory Tweaks
+Iron Chests
+JEI Bees
+JourneyMap
+JourneyMapStages
+Just Enough Items (JEI)
+Just Enough Resources (JEI)
+LibVulpes
+Mantle
+McJtyLib
+Mekanism
+Mekanism Generators
+Mekanism Tools
+Mod Tweaker
+More Overlays
+Mouse Tweaks
+MTLib
+Mystical Agriculture
+NotEnoughIDs
+NuclearCraft
+OpenBlocks
+OpenModsLib
+Ore Stages
+p455w0rd's Library
+Railcraft
+ReAuth
+Redstone Flux
+Recipe Stages
+RFTools
+RFTools Control
+Storage Drawers
+Thaumcraft
+Thaumic JEI
+Thermal Dynamics
+Thermal Expansion
+Thermal Foundation
+Tinkers JEI
+Tinkers Construct
+Tinker's Complement
+Tinker's Tool Leveing
+TinkerStages
+UniDict
+WanionLib
+Wireless Crafting Terminal
+
+Added 22/12/2019
+
+IC2 Tweaker
+Demagnetize
+Just Enough Energetics (JEE)
+Just Enough Petroleum
+Just Enough Throwing in Fluids
+Lapis Stays in the Enchanting Table
+Pam's HarvestCraft
+Cooking for Blockheads
+Farming for Blockheads
+Spice of Life: Carrot Edition
+Colytra
+
+Added 6/1/2020
+Tails
+FoxLib
+Immersive Floofs
+Immersive Railroading
+
+Added 10/1/2020
+CEU
+Apple Skin 
+
+Added 15/1/2020
+IE Cloche Compat
+Mystical Agradditions
+Fast Leave Decay
+Thaumic Inventory Scanning
+Thaumic Tinkerer
+Thaumic Energistics
+Crafting Tweaks
+Research Table
+Kiwi
+Waila Harvestability
+Together Forever
+Toast Control
+
+Added 22/1/2020
+Item Stages

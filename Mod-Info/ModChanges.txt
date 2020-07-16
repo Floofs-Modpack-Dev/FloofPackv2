@@ -1,0 +1,37 @@
+List Of Mod Additions/Removals As Of 22/12/2019
+
+Added IC2 Tweaker
+Added Demagnetize
+Added Just Enough Energetics (JEE)
+Added Just Enough Petroleum
+Added Just Enough Throwing in Fluids
+Added Lapis Stays in the Enchanting Table
+Added Pam's HarvestCraft
+Added Cooking for Blockheads
+Added Farming for Blockheads
+Added Spice of Life: Carrot Edition
+Added Colytra
+
+6/1/2020
+Added Tails
+Added FoxLib
+Added Immersive Floofs
+Added Immersive Railroading
+
+10/1/2020
+Added CEU
+Added Apple Skin 
+
+15/1/2020
+Added IE Cloche Compat
+Added Mystical Agradditions
+Added Fast Leave Decay
+Added Thaumic Inventory Scanning
+Added Thaumic Tinkerer
+Added Thaumic Energistics
+Added Crafting Tweaks
+Added Research Table
+Added Kiwi
+Added Waila Harvestability
+Added Together Forever
+Added Toast Control
