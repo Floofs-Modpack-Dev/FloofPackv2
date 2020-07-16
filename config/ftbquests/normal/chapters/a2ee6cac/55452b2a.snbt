@@ -1,0 +1,13 @@
+{
+	title: "Tinkers Smeltery",
+	icon: "tconstruct:smeltery_controller",
+	x: 17.5d,
+	y: -13.5d,
+	text: [
+		"No Description"
+	],
+	dependencies: [
+		"2dd8d945",
+		"59049575"
+	]
+}

@@ -1,0 +1,25 @@
+{
+	icon: "thermalfoundation:upgrade",
+	x: 13.0d,
+	y: -10.5d,
+	dependencies: [
+		"d3fe6c25"
+	],
+	tasks: [{
+		uid: "fc5aabd3",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:upgrade"
+		}]
+	},
+	{
+		uid: "a7d67ee3",
+		type: "gamestage",
+		stage: "Thermal_Stage_Hardened"
+	}],
+	rewards: [{
+		uid: "d084246a",
+		type: "gamestage",
+		stage: "Thermal_Stage_Reinforced"
+	}]
+}

@@ -1,0 +1,4547 @@
+ConductiveIron
+	nuggetConductiveIron
+	blockConductiveIron
+	ingotConductiveIron
+	ballConductiveIron
+
+Californium249
+	nuggetCalifornium249
+	ingotCalifornium249
+
+Tough
+	ingotTough
+
+TitaniumIridium
+	sheetTitaniumIridium
+	plateTitaniumIridium
+	nuggetTitaniumIridium
+	blockTitaniumIridium
+	gearTitaniumIridium
+	dustTitaniumIridium
+	ingotTitaniumIridium
+	stickTitaniumIridium
+
+Berkelium248
+	nuggetBerkelium248
+	ingotBerkelium248
+
+Terrasteel
+	nuggetTerrasteel
+	ingotTerrasteel
+
+Osmium
+	crystalOsmium
+	cableGtHexOsmium
+	wireGtDoubleOsmium
+	dustDirtyOsmium
+	wireGtHexOsmium
+	shardOsmium
+	rotorOsmium
+	crushedOsmium
+	toolHeadPickaxeOsmium
+	crushedPurifiedOsmium
+	cableGtOctalOsmium
+	gearOsmium
+	oreOsmium
+	stickLongOsmium
+	toolHeadSenseOsmium
+	clumpOsmium
+	ringOsmium
+	toolHeadHammerOsmium
+	wireFineOsmium
+	oreMarbleOsmium
+	oreBasaltOsmium
+	toolHeadHoeOsmium
+	turbineBladeOsmium
+	oreRedgraniteOsmium
+	dustPureOsmium
+	toolHeadDrillOsmium
+	dustImpureOsmium
+	toolHeadSawOsmium
+	oreEndstoneOsmium
+	toolHeadBuzzSawOsmium
+	oreBlackgraniteOsmium
+	screwOsmium
+	wireGtOctalOsmium
+	cableGtSingleOsmium
+	stickOsmium
+	toolHeadShovelOsmium
+	toolHeadAxeOsmium
+	dustTinyOsmium
+	oreNetherrackOsmium
+	dustSmallOsmium
+	oreGravelOsmium
+	toolHeadSwordOsmium
+	toolHeadFileOsmium
+	wireGtQuadrupleOsmium
+	plateOsmium
+	nuggetOsmium
+	blockOsmium
+	oreSandOsmium
+	toolHeadChainsawOsmium
+	crushedCentrifugedOsmium
+	toolHeadWrenchOsmium
+	dustOsmium
+	ingotOsmium
+	cableGtQuadrupleOsmium
+	wireGtSingleOsmium
+	toolHeadUniversalSpadeOsmium
+	cableGtDoubleOsmium
+	boltOsmium
+	foilOsmium
+
+Tritanium
+	toolHeadPickaxeTritanium
+	stickLongTritanium
+	toolHeadSenseTritanium
+	toolHeadHammerTritanium
+	toolHeadHoeTritanium
+	turbineBladeTritanium
+	toolHeadDrillTritanium
+	toolHeadSawTritanium
+	toolHeadBuzzSawTritanium
+	screwTritanium
+	stickTritanium
+	toolHeadShovelTritanium
+	toolHeadAxeTritanium
+	dustTinyTritanium
+	dustSmallTritanium
+	toolHeadSwordTritanium
+	toolHeadFileTritanium
+	plateTritanium
+	nuggetTritanium
+	blockTritanium
+	toolHeadChainsawTritanium
+	toolHeadWrenchTritanium
+	dustTritanium
+	ingotTritanium
+	toolHeadUniversalSpadeTritanium
+	boltTritanium
+
+Naquadria
+	dustNaquadria
+	screwNaquadria
+	stickNaquadria
+	dustTinyNaquadria
+	dustSmallNaquadria
+	plateNaquadria
+	nuggetNaquadria
+	blockNaquadria
+	stickLongNaquadria
+	ingotNaquadria
+	boltNaquadria
+
+Manyullyn
+	nuggetManyullyn
+	blockManyullyn
+	ingotManyullyn
+
+GarnetYellow
+	boltGarnetYellow
+	lensGarnetYellow
+	gemGarnetYellow
+	gemChippedGarnetYellow
+	crushedGarnetYellow
+	toolHeadPickaxeGarnetYellow
+	crushedPurifiedGarnetYellow
+	oreGarnetYellow
+	stickLongGarnetYellow
+	toolHeadSenseGarnetYellow
+	toolHeadHammerGarnetYellow
+	oreMarbleGarnetYellow
+	oreBasaltGarnetYellow
+	gemFlawlessGarnetYellow
+	toolHeadHoeGarnetYellow
+	turbineBladeGarnetYellow
+	oreRedgraniteGarnetYellow
+	dustPureGarnetYellow
+	toolHeadDrillGarnetYellow
+	dustImpureGarnetYellow
+	toolHeadSawGarnetYellow
+	oreEndstoneGarnetYellow
+	toolHeadBuzzSawGarnetYellow
+	oreBlackgraniteGarnetYellow
+	stickGarnetYellow
+	toolHeadShovelGarnetYellow
+	gemExquisiteGarnetYellow
+	toolHeadAxeGarnetYellow
+	dustTinyGarnetYellow
+	oreNetherrackGarnetYellow
+	dustSmallGarnetYellow
+	oreGravelGarnetYellow
+	toolHeadSwordGarnetYellow
+	toolHeadFileGarnetYellow
+	plateGarnetYellow
+	blockGarnetYellow
+	oreSandGarnetYellow
+	toolHeadChainsawGarnetYellow
+	crushedCentrifugedGarnetYellow
+	toolHeadWrenchGarnetYellow
+	dustGarnetYellow
+	toolHeadUniversalSpadeGarnetYellow
+	gemFlawedGarnetYellow
+
+Tanzanite
+	gemFlawedTanzanite
+	gemTanzanite
+	gemChippedTanzanite
+	crushedTanzanite
+	toolHeadPickaxeTanzanite
+	crushedPurifiedTanzanite
+	oreTanzanite
+	stickLongTanzanite
+	toolHeadSenseTanzanite
+	toolHeadHammerTanzanite
+	oreMarbleTanzanite
+	oreBasaltTanzanite
+	gemFlawlessTanzanite
+	toolHeadHoeTanzanite
+	turbineBladeTanzanite
+	oreRedgraniteTanzanite
+	dustPureTanzanite
+	toolHeadDrillTanzanite
+	dustImpureTanzanite
+	toolHeadSawTanzanite
+	oreEndstoneTanzanite
+	toolHeadBuzzSawTanzanite
+	oreBlackgraniteTanzanite
+	stickTanzanite
+	toolHeadShovelTanzanite
+	gemExquisiteTanzanite
+	toolHeadAxeTanzanite
+	dustTinyTanzanite
+	oreNetherrackTanzanite
+	dustSmallTanzanite
+	oreGravelTanzanite
+	toolHeadSwordTanzanite
+	toolHeadFileTanzanite
+	plateTanzanite
+	blockTanzanite
+	oreSandTanzanite
+	toolHeadChainsawTanzanite
+	crushedCentrifugedTanzanite
+	toolHeadWrenchTanzanite
+	dustTanzanite
+	toolHeadUniversalSpadeTanzanite
+	boltTanzanite
+
+TungstenCarbide
+	toolHeadPickaxeTungstenCarbide
+	gearTungstenCarbide
+	stickLongTungstenCarbide
+	toolHeadSenseTungstenCarbide
+	toolHeadHammerTungstenCarbide
+	wireFineTungstenCarbide
+	toolHeadHoeTungstenCarbide
+	turbineBladeTungstenCarbide
+	toolHeadDrillTungstenCarbide
+	toolHeadSawTungstenCarbide
+	toolHeadBuzzSawTungstenCarbide
+	screwTungstenCarbide
+	stickTungstenCarbide
+	toolHeadShovelTungstenCarbide
+	toolHeadAxeTungstenCarbide
+	dustTinyTungstenCarbide
+	dustSmallTungstenCarbide
+	toolHeadSwordTungstenCarbide
+	toolHeadFileTungstenCarbide
+	plateTungstenCarbide
+	nuggetTungstenCarbide
+	blockTungstenCarbide
+	toolHeadChainsawTungstenCarbide
+	toolHeadWrenchTungstenCarbide
+	dustTungstenCarbide
+	ingotTungstenCarbide
+	toolHeadUniversalSpadeTungstenCarbide
+	boltTungstenCarbide
+	foilTungstenCarbide
+
+Naquadah
+	cableGtHexNaquadah
+	wireGtDoubleNaquadah
+	wireGtHexNaquadah
+	crushedNaquadah
+	toolHeadPickaxeNaquadah
+	crushedPurifiedNaquadah
+	cableGtOctalNaquadah
+	oreNaquadah
+	stickLongNaquadah
+	toolHeadSenseNaquadah
+	toolHeadHammerNaquadah
+	oreMarbleNaquadah
+	oreBasaltNaquadah
+	toolHeadHoeNaquadah
+	turbineBladeNaquadah
+	oreRedgraniteNaquadah
+	dustPureNaquadah
+	toolHeadDrillNaquadah
+	dustImpureNaquadah
+	toolHeadSawNaquadah
+	oreEndstoneNaquadah
+	toolHeadBuzzSawNaquadah
+	oreBlackgraniteNaquadah
+	screwNaquadah
+	wireGtOctalNaquadah
+	cableGtSingleNaquadah
+	stickNaquadah
+	toolHeadShovelNaquadah
+	toolHeadAxeNaquadah
+	dustTinyNaquadah
+	oreNetherrackNaquadah
+	dustSmallNaquadah
+	oreGravelNaquadah
+	toolHeadSwordNaquadah
+	toolHeadFileNaquadah
+	wireGtQuadrupleNaquadah
+	plateNaquadah
+	nuggetNaquadah
+	blockNaquadah
+	oreSandNaquadah
+	toolHeadChainsawNaquadah
+	crushedCentrifugedNaquadah
+	toolHeadWrenchNaquadah
+	dustNaquadah
+	ingotNaquadah
+	cableGtQuadrupleNaquadah
+	wireGtSingleNaquadah
+	toolHeadUniversalSpadeNaquadah
+	cableGtDoubleNaquadah
+	boltNaquadah
+
+Berkelium247
+	nuggetBerkelium247
+	blockBerkelium247
+	ingotBerkelium247
+
+MelodicAlloy
+	nuggetMelodicAlloy
+	blockMelodicAlloy
+	ingotMelodicAlloy
+	ballMelodicAlloy
+
+PolyphenyleneSulfide
+	dustPolyphenyleneSulfide
+	screwPolyphenyleneSulfide
+	stickPolyphenyleneSulfide
+	dustTinyPolyphenyleneSulfide
+	dustSmallPolyphenyleneSulfide
+	platePolyphenyleneSulfide
+	nuggetPolyphenyleneSulfide
+	blockPolyphenyleneSulfide
+	stickLongPolyphenyleneSulfide
+	ingotPolyphenyleneSulfide
+	boltPolyphenyleneSulfide
+	foilPolyphenyleneSulfide
+
+Ruby
+	gemFlawedRuby
+	lensRuby
+	gemRuby
+	gemChippedRuby
+	crushedRuby
+	toolHeadPickaxeRuby
+	crushedPurifiedRuby
+	oreRuby
+	stickLongRuby
+	toolHeadSenseRuby
+	toolHeadHammerRuby
+	oreMarbleRuby
+	oreBasaltRuby
+	gemFlawlessRuby
+	toolHeadHoeRuby
+	turbineBladeRuby
+	oreRedgraniteRuby
+	dustPureRuby
+	toolHeadDrillRuby
+	dustImpureRuby
+	toolHeadSawRuby
+	oreEndstoneRuby
+	toolHeadBuzzSawRuby
+	oreBlackgraniteRuby
+	stickRuby
+	toolHeadShovelRuby
+	gemExquisiteRuby
+	toolHeadAxeRuby
+	dustTinyRuby
+	oreNetherrackRuby
+	dustSmallRuby
+	oreGravelRuby
+	toolHeadSwordRuby
+	toolHeadFileRuby
+	plateRuby
+	blockRuby
+	oreSandRuby
+	toolHeadChainsawRuby
+	crushedCentrifugedRuby
+	toolHeadWrenchRuby
+	dustRuby
+	toolHeadUniversalSpadeRuby
+	boltRuby
+
+Supremium
+	ingotSupremium
+	essenceSupremium
+	nuggetSupremium
+	blockSupremium
+	coalSupremium
+
+GarnetRed
+	gemFlawedGarnetRed
+	lensGarnetRed
+	gemGarnetRed
+	gemChippedGarnetRed
+	crushedGarnetRed
+	toolHeadPickaxeGarnetRed
+	crushedPurifiedGarnetRed
+	oreGarnetRed
+	stickLongGarnetRed
+	toolHeadSenseGarnetRed
+	toolHeadHammerGarnetRed
+	oreMarbleGarnetRed
+	oreBasaltGarnetRed
+	gemFlawlessGarnetRed
+	toolHeadHoeGarnetRed
+	turbineBladeGarnetRed
+	oreRedgraniteGarnetRed
+	dustPureGarnetRed
+	toolHeadDrillGarnetRed
+	dustImpureGarnetRed
+	toolHeadSawGarnetRed
+	oreEndstoneGarnetRed
+	toolHeadBuzzSawGarnetRed
+	oreBlackgraniteGarnetRed
+	stickGarnetRed
+	toolHeadShovelGarnetRed
+	gemExquisiteGarnetRed
+	toolHeadAxeGarnetRed
+	dustTinyGarnetRed
+	oreNetherrackGarnetRed
+	dustSmallGarnetRed
+	oreGravelGarnetRed
+	toolHeadSwordGarnetRed
+	toolHeadFileGarnetRed
+	plateGarnetRed
+	blockGarnetRed
+	oreSandGarnetRed
+	toolHeadChainsawGarnetRed
+	crushedCentrifugedGarnetRed
+	toolHeadWrenchGarnetRed
+	dustGarnetRed
+	toolHeadUniversalSpadeGarnetRed
+	boltGarnetRed
+
+VibrantAlloy
+	nuggetVibrantAlloy
+	blockVibrantAlloy
+	ingotVibrantAlloy
+	ballVibrantAlloy
+
+Ultimate
+	batteryUltimate
+	nuggetUltimate
+	blockUltimate
+	alloyUltimate
+	ingotUltimate
+	circuitUltimate
+
+Curium247Oxide
+	nuggetCurium247Oxide
+	ingotCurium247Oxide
+
+EnergeticAlloy
+	nuggetEnergeticAlloy
+	blockEnergeticAlloy
+	ingotEnergeticAlloy
+	ballEnergeticAlloy
+
+Plutonium241Oxide
+	nuggetPlutonium241Oxide
+	ingotPlutonium241Oxide
+
+Thermoconducting
+	ingotThermoconducting
+
+Cobalt
+	cableGtHexCobalt
+	wireGtDoubleCobalt
+	wireGtHexCobalt
+	crushedCobalt
+	toolHeadPickaxeCobalt
+	crushedPurifiedCobalt
+	cableGtOctalCobalt
+	oreCobalt
+	toolHeadSenseCobalt
+	toolHeadHammerCobalt
+	oreMarbleCobalt
+	oreBasaltCobalt
+	toolHeadHoeCobalt
+	turbineBladeCobalt
+	oreRedgraniteCobalt
+	dustPureCobalt
+	toolHeadDrillCobalt
+	dustImpureCobalt
+	toolHeadSawCobalt
+	oreEndstoneCobalt
+	toolHeadBuzzSawCobalt
+	oreBlackgraniteCobalt
+	wireGtOctalCobalt
+	cableGtSingleCobalt
+	toolHeadShovelCobalt
+	toolHeadAxeCobalt
+	dustTinyCobalt
+	oreNetherrackCobalt
+	dustSmallCobalt
+	oreGravelCobalt
+	toolHeadSwordCobalt
+	toolHeadFileCobalt
+	wireGtQuadrupleCobalt
+	plateCobalt
+	nuggetCobalt
+	blockCobalt
+	oreSandCobalt
+	toolHeadChainsawCobalt
+	crushedCentrifugedCobalt
+	toolHeadWrenchCobalt
+	dustCobalt
+	ingotCobalt
+	cableGtQuadrupleCobalt
+	wireGtSingleCobalt
+	toolHeadUniversalSpadeCobalt
+	cableGtDoubleCobalt
+
+HotYttrium
+	ingotHotYttrium
+
+WroughtIron
+	toolHeadPickaxeWroughtIron
+	gearWroughtIron
+	stickLongWroughtIron
+	toolHeadSenseWroughtIron
+	ringWroughtIron
+	toolHeadHammerWroughtIron
+	wireFineWroughtIron
+	toolHeadHoeWroughtIron
+	turbineBladeWroughtIron
+	toolHeadDrillWroughtIron
+	toolHeadSawWroughtIron
+	toolHeadBuzzSawWroughtIron
+	screwWroughtIron
+	stickWroughtIron
+	toolHeadShovelWroughtIron
+	toolHeadAxeWroughtIron
+	dustTinyWroughtIron
+	dustSmallWroughtIron
+	toolHeadSwordWroughtIron
+	toolHeadFileWroughtIron
+	plateWroughtIron
+	nuggetWroughtIron
+	blockWroughtIron
+	toolHeadChainsawWroughtIron
+	toolHeadWrenchWroughtIron
+	dustWroughtIron
+	ingotWroughtIron
+	toolHeadUniversalSpadeWroughtIron
+	boltWroughtIron
+	foilWroughtIron
+
+Uranium235Oxide
+	nuggetUranium235Oxide
+	ingotUranium235Oxide
+
+SteelMagnetic
+	wireFineSteelMagnetic
+	dustSteelMagnetic
+	gearSmallSteelMagnetic
+	screwSteelMagnetic
+	stickSteelMagnetic
+	dustTinySteelMagnetic
+	dustSmallSteelMagnetic
+	rotorSteelMagnetic
+	plateSteelMagnetic
+	nuggetSteelMagnetic
+	blockSteelMagnetic
+	gearSteelMagnetic
+	stickLongSteelMagnetic
+	ingotSteelMagnetic
+	ringSteelMagnetic
+	boltSteelMagnetic
+	foilSteelMagnetic
+
+TungstenSteel
+	pipeMediumTungstenSteel
+	pipeSmallTungstenSteel
+	plateDenseTungstenSteel
+	frameGtTungstenSteel
+	cableGtHexTungstenSteel
+	pipeTinyTungstenSteel
+	wireGtDoubleTungstenSteel
+	wireGtHexTungstenSteel
+	rotorTungstenSteel
+	toolHeadPickaxeTungstenSteel
+	cableGtOctalTungstenSteel
+	gearTungstenSteel
+	stickLongTungstenSteel
+	toolHeadSenseTungstenSteel
+	ringTungstenSteel
+	toolHeadHammerTungstenSteel
+	wireFineTungstenSteel
+	toolHeadHoeTungstenSteel
+	turbineBladeTungstenSteel
+	toolHeadDrillTungstenSteel
+	toolHeadSawTungstenSteel
+	toolHeadBuzzSawTungstenSteel
+	gearSmallTungstenSteel
+	screwTungstenSteel
+	wireGtOctalTungstenSteel
+	cableGtSingleTungstenSteel
+	stickTungstenSteel
+	toolHeadShovelTungstenSteel
+	toolHeadAxeTungstenSteel
+	dustTinyTungstenSteel
+	dustSmallTungstenSteel
+	toolHeadSwordTungstenSteel
+	toolHeadFileTungstenSteel
+	wireGtQuadrupleTungstenSteel
+	pipeLargeTungstenSteel
+	plateTungstenSteel
+	nuggetTungstenSteel
+	blockTungstenSteel
+	toolHeadChainsawTungstenSteel
+	toolHeadWrenchTungstenSteel
+	dustTungstenSteel
+	ingotTungstenSteel
+	cableGtQuadrupleTungstenSteel
+	wireGtSingleTungstenSteel
+	toolHeadUniversalSpadeTungstenSteel
+	cableGtDoubleTungstenSteel
+	boltTungstenSteel
+	foilTungstenSteel
+
+HotOsmiridium
+	ingotHotOsmiridium
+
+Diamond
+	blockDiamond
+	gemFlawedDiamond
+	lensDiamond
+	gemDiamond
+	gemChippedDiamond
+	crushedDiamond
+	toolHeadPickaxeDiamond
+	crushedPurifiedDiamond
+	gearDiamond
+	oreDiamond
+	toolHeadSenseDiamond
+	toolHeadHammerDiamond
+	oreMarbleDiamond
+	oreBasaltDiamond
+	gemFlawlessDiamond
+	toolHeadHoeDiamond
+	turbineBladeDiamond
+	oreRedgraniteDiamond
+	dustPureDiamond
+	toolHeadDrillDiamond
+	dustImpureDiamond
+	toolHeadSawDiamond
+	oreEndstoneDiamond
+	toolHeadBuzzSawDiamond
+	oreBlackgraniteDiamond
+	stickDiamond
+	toolHeadShovelDiamond
+	gemExquisiteDiamond
+	toolHeadAxeDiamond
+	dustTinyDiamond
+	oreNetherrackDiamond
+	dustSmallDiamond
+	oreGravelDiamond
+	toolHeadSwordDiamond
+	toolHeadFileDiamond
+	plateDiamond
+	nuggetDiamond
+	itemCompressedDiamond
+	oreSandDiamond
+	toolHeadChainsawDiamond
+	crushedCentrifugedDiamond
+	toolHeadWrenchDiamond
+	dustDiamond
+	toolHeadUniversalSpadeDiamond
+	boltDiamond
+
+DarkSteel
+	nuggetDarkSteel
+	blockDarkSteel
+	ingotDarkSteel
+	ballDarkSteel
+
+Emerald
+	gemFlawedEmerald
+	lensEmerald
+	gemEmerald
+	gemChippedEmerald
+	crushedEmerald
+	toolHeadPickaxeEmerald
+	crushedPurifiedEmerald
+	gearEmerald
+	oreEmerald
+	stickLongEmerald
+	toolHeadSenseEmerald
+	toolHeadHammerEmerald
+	oreMarbleEmerald
+	oreBasaltEmerald
+	gemFlawlessEmerald
+	toolHeadHoeEmerald
+	turbineBladeEmerald
+	oreRedgraniteEmerald
+	dustPureEmerald
+	toolHeadDrillEmerald
+	dustImpureEmerald
+	toolHeadSawEmerald
+	oreEndstoneEmerald
+	toolHeadBuzzSawEmerald
+	oreBlackgraniteEmerald
+	stickEmerald
+	toolHeadShovelEmerald
+	gemExquisiteEmerald
+	toolHeadAxeEmerald
+	dustTinyEmerald
+	oreNetherrackEmerald
+	dustSmallEmerald
+	oreGravelEmerald
+	toolHeadSwordEmerald
+	toolHeadFileEmerald
+	plateEmerald
+	nuggetEmerald
+	blockEmerald
+	oreSandEmerald
+	toolHeadChainsawEmerald
+	crushedCentrifugedEmerald
+	toolHeadWrenchEmerald
+	dustEmerald
+	toolHeadUniversalSpadeEmerald
+	boltEmerald
+
+StainlessSteel
+	pipeMediumStainlessSteel
+	pipeSmallStainlessSteel
+	frameGtStainlessSteel
+	pipeTinyStainlessSteel
+	rotorStainlessSteel
+	toolHeadPickaxeStainlessSteel
+	gearStainlessSteel
+	stickLongStainlessSteel
+	toolHeadSenseStainlessSteel
+	ringStainlessSteel
+	toolHeadHammerStainlessSteel
+	wireFineStainlessSteel
+	toolHeadHoeStainlessSteel
+	turbineBladeStainlessSteel
+	toolHeadDrillStainlessSteel
+	toolHeadSawStainlessSteel
+	toolHeadBuzzSawStainlessSteel
+	gearSmallStainlessSteel
+	screwStainlessSteel
+	stickStainlessSteel
+	toolHeadShovelStainlessSteel
+	toolHeadAxeStainlessSteel
+	dustTinyStainlessSteel
+	dustSmallStainlessSteel
+	toolHeadSwordStainlessSteel
+	toolHeadFileStainlessSteel
+	pipeLargeStainlessSteel
+	plateStainlessSteel
+	nuggetStainlessSteel
+	blockStainlessSteel
+	toolHeadChainsawStainlessSteel
+	toolHeadWrenchStainlessSteel
+	dustStainlessSteel
+	ingotStainlessSteel
+	toolHeadUniversalSpadeStainlessSteel
+	boltStainlessSteel
+	foilStainlessSteel
+
+Duranium
+	cableGtHexDuranium
+	wireGtDoubleDuranium
+	wireGtHexDuranium
+	toolHeadPickaxeDuranium
+	cableGtOctalDuranium
+	stickLongDuranium
+	toolHeadSenseDuranium
+	toolHeadHammerDuranium
+	toolHeadHoeDuranium
+	turbineBladeDuranium
+	toolHeadDrillDuranium
+	toolHeadSawDuranium
+	toolHeadBuzzSawDuranium
+	screwDuranium
+	wireGtOctalDuranium
+	cableGtSingleDuranium
+	stickDuranium
+	toolHeadShovelDuranium
+	toolHeadAxeDuranium
+	dustTinyDuranium
+	dustSmallDuranium
+	toolHeadSwordDuranium
+	toolHeadFileDuranium
+	wireGtQuadrupleDuranium
+	plateDuranium
+	nuggetDuranium
+	blockDuranium
+	toolHeadChainsawDuranium
+	toolHeadWrenchDuranium
+	dustDuranium
+	ingotDuranium
+	cableGtQuadrupleDuranium
+	wireGtSingleDuranium
+	toolHeadUniversalSpadeDuranium
+	cableGtDoubleDuranium
+	boltDuranium
+
+Curium247
+	nuggetCurium247
+	ingotCurium247
+
+Curium246
+	nuggetCurium246
+	blockCurium246
+	ingotCurium246
+
+Kanthal
+	stickLongKanthal
+	cableGtHexKanthal
+	screwKanthal
+	wireGtOctalKanthal
+	cableGtSingleKanthal
+	stickKanthal
+	wireGtDoubleKanthal
+	dustTinyKanthal
+	wireGtHexKanthal
+	dustSmallKanthal
+	wireGtQuadrupleKanthal
+	plateKanthal
+	nuggetKanthal
+	blockKanthal
+	cableGtOctalKanthal
+	dustKanthal
+	ingotKanthal
+	cableGtQuadrupleKanthal
+	wireGtSingleKanthal
+	cableGtDoubleKanthal
+	boltKanthal
+
+Tantalum
+	dustSmallTantalum
+	plateTantalum
+	nuggetTantalum
+	blockTantalum
+	dustTantalum
+	ingotTantalum
+	dustTinyTantalum
+
+Curium243
+	nuggetCurium243
+	ingotCurium243
+
+RedAlloy
+	wireFineRedAlloy
+	cableGtHexRedAlloy
+	wireGtOctalRedAlloy
+	cableGtSingleRedAlloy
+	wireGtDoubleRedAlloy
+	dustTinyRedAlloy
+	wireGtHexRedAlloy
+	dustSmallRedAlloy
+	wireGtQuadrupleRedAlloy
+	plateRedAlloy
+	nuggetRedAlloy
+	blockRedAlloy
+	cableGtOctalRedAlloy
+	dustRedAlloy
+	ingotRedAlloy
+	cableGtQuadrupleRedAlloy
+	wireGtSingleRedAlloy
+	cableGtDoubleRedAlloy
+	foilRedAlloy
+
+Uranium233Oxide
+	nuggetUranium233Oxide
+	ingotUranium233Oxide
+
+Thorium232
+	nuggetThorium232
+	ingotThorium232
+
+Thorium230
+	nuggetThorium230
+	blockThorium230
+	ingotThorium230
+
+DemonicMetal
+	blockDemonicMetal
+	ingotDemonicMetal
+
+MagnesiumDiboride
+	ingotMagnesiumDiboride
+	solenoidMagnesiumDiboride
+
+HotOsmium
+	ingotHotOsmium
+
+Magnalium
+	toolHeadPickaxeMagnalium
+	gearMagnalium
+	stickLongMagnalium
+	toolHeadSenseMagnalium
+	toolHeadHammerMagnalium
+	wireFineMagnalium
+	toolHeadHoeMagnalium
+	turbineBladeMagnalium
+	toolHeadDrillMagnalium
+	toolHeadSawMagnalium
+	toolHeadBuzzSawMagnalium
+	screwMagnalium
+	stickMagnalium
+	toolHeadShovelMagnalium
+	toolHeadAxeMagnalium
+	dustTinyMagnalium
+	dustSmallMagnalium
+	toolHeadSwordMagnalium
+	toolHeadFileMagnalium
+	plateMagnalium
+	nuggetMagnalium
+	blockMagnalium
+	toolHeadChainsawMagnalium
+	toolHeadWrenchMagnalium
+	dustMagnalium
+	ingotMagnalium
+	toolHeadUniversalSpadeMagnalium
+	boltMagnalium
+	foilMagnalium
+
+Carbon
+	dustSmallCarbon
+	itemCompressedCarbon
+	plateCarbon
+	nuggetCarbon
+	blockCarbon
+	dustCarbon
+	ingotCarbon
+	dustTinyCarbon
+
+Berkelium248Oxide
+	nuggetBerkelium248Oxide
+	ingotBerkelium248Oxide
+
+Thulium
+	dustSmallThulium
+	plateThulium
+	nuggetThulium
+	blockThulium
+	dustThulium
+	ingotThulium
+	dustTinyThulium
+
+Pigiron
+	nuggetPigiron
+	blockPigiron
+	ingotPigiron
+
+Vinteum
+	boltVinteum
+	lensVinteum
+	gemVinteum
+	gemChippedVinteum
+	crushedVinteum
+	toolHeadPickaxeVinteum
+	crushedPurifiedVinteum
+	oreVinteum
+	stickLongVinteum
+	toolHeadSenseVinteum
+	toolHeadHammerVinteum
+	oreMarbleVinteum
+	oreBasaltVinteum
+	gemFlawlessVinteum
+	toolHeadHoeVinteum
+	turbineBladeVinteum
+	oreRedgraniteVinteum
+	dustPureVinteum
+	toolHeadDrillVinteum
+	dustImpureVinteum
+	toolHeadSawVinteum
+	oreEndstoneVinteum
+	toolHeadBuzzSawVinteum
+	oreBlackgraniteVinteum
+	stickVinteum
+	toolHeadShovelVinteum
+	gemExquisiteVinteum
+	toolHeadAxeVinteum
+	dustTinyVinteum
+	oreNetherrackVinteum
+	dustSmallVinteum
+	oreGravelVinteum
+	toolHeadSwordVinteum
+	toolHeadFileVinteum
+	plateVinteum
+	blockVinteum
+	oreSandVinteum
+	toolHeadChainsawVinteum
+	crushedCentrifugedVinteum
+	toolHeadWrenchVinteum
+	dustVinteum
+	toolHeadUniversalSpadeVinteum
+	gemFlawedVinteum
+
+Vanadium
+	dustSmallVanadium
+	plateVanadium
+	nuggetVanadium
+	blockVanadium
+	dustVanadium
+	ingotVanadium
+	dustTinyVanadium
+
+HotNiobium
+	ingotHotNiobium
+
+Scandium
+	dustSmallScandium
+	plateScandium
+	nuggetScandium
+	blockScandium
+	dustScandium
+	ingotScandium
+	dustTinyScandium
+
+TinAlloy
+	wireFineTinAlloy
+	stickLongTinAlloy
+	screwTinAlloy
+	stickTinAlloy
+	dustTinyTinAlloy
+	dustSmallTinAlloy
+	plateTinAlloy
+	nuggetTinAlloy
+	blockTinAlloy
+	gearTinAlloy
+	dustTinAlloy
+	ingotTinAlloy
+	boltTinAlloy
+	foilTinAlloy
+
+Californium250Base
+	ingotCalifornium250Base
+
+ElvenElementium
+	nuggetElvenElementium
+	ingotElvenElementium
+
+Curium243Base
+	ingotCurium243Base
+
+HotBlackBronze
+	ingotHotBlackBronze
+
+GalliumArsenide
+	dustSmallGalliumArsenide
+	plateGalliumArsenide
+	nuggetGalliumArsenide
+	blockGalliumArsenide
+	dustGalliumArsenide
+	ingotGalliumArsenide
+	dustTinyGalliumArsenide
+
+Americium243
+	nuggetAmericium243
+	blockAmericium243
+	ingotAmericium243
+
+Americium242
+	nuggetAmericium242
+	ingotAmericium242
+
+Americium241
+	nuggetAmericium241
+	ingotAmericium241
+
+Curium247Base
+	ingotCurium247Base
+
+Steel
+	scaffoldingSteel
+	fanSteel
+	fenceSteel
+	slabSteel
+	pipeMediumSteel
+	pipeSmallSteel
+	plateDenseSteel
+	sheetSteel
+	frameGtSteel
+	cableGtHexSteel
+	blockSheetmetalSteel
+	pipeTinySteel
+	wireGtDoubleSteel
+	slabSheetmetalSteel
+	wireGtHexSteel
+	coinSteel
+	rotorSteel
+	toolHeadPickaxeSteel
+	cableGtOctalSteel
+	gearSteel
+	stickLongSteel
+	toolHeadSenseSteel
+	ringSteel
+	wireSteel
+	toolHeadHammerSteel
+	wireFineSteel
+	toolHeadHoeSteel
+	turbineBladeSteel
+	toolHeadDrillSteel
+	toolHeadSawSteel
+	toolHeadBuzzSawSteel
+	gearSmallSteel
+	screwSteel
+	wireGtOctalSteel
+	cableGtSingleSteel
+	stickSteel
+	toolHeadShovelSteel
+	toolHeadAxeSteel
+	dustTinySteel
+	dustSmallSteel
+	toolHeadSwordSteel
+	toolHeadFileSteel
+	wireGtQuadrupleSteel
+	pipeLargeSteel
+	plateSteel
+	nuggetSteel
+	blockSteel
+	toolHeadChainsawSteel
+	toolHeadWrenchSteel
+	dustSteel
+	ingotSteel
+	cableGtQuadrupleSteel
+	wireGtSingleSteel
+	toolHeadUniversalSpadeSteel
+	cableGtDoubleSteel
+	boltSteel
+	foilSteel
+
+Calcium
+	dustSmallCalcium
+	nuggetCalcium
+	blockCalcium
+	dustCalcium
+	ingotCalcium
+	dustTinyCalcium
+
+Ferroboron
+	ingotFerroboron
+
+TinSilver
+	ingotTinSilver
+
+Silver
+	craftingLensSilver
+	crystalSilver
+	slabSilver
+	cableGtHexSilver
+	blockSheetmetalSilver
+	dyeSilver
+	wireGtDoubleSilver
+	dustDirtySilver
+	slabSheetmetalSilver
+	wireGtHexSilver
+	shardSilver
+	coinSilver
+	crushedSilver
+	orePoorSilver
+	crushedPurifiedSilver
+	cableGtOctalSilver
+	gearSilver
+	oreSilver
+	stickLongSilver
+	clusterSilver
+	clumpSilver
+	wireFineSilver
+	oreMarbleSilver
+	oreBasaltSilver
+	oreRedgraniteSilver
+	dustPureSilver
+	dustImpureSilver
+	oreEndstoneSilver
+	oreBlackgraniteSilver
+	screwSilver
+	wireGtOctalSilver
+	cableGtSingleSilver
+	stickSilver
+	dustTinySilver
+	oreNetherrackSilver
+	dustSmallSilver
+	oreGravelSilver
+	wireGtQuadrupleSilver
+	plateSilver
+	nuggetSilver
+	blockSilver
+	oreSandSilver
+	crushedCentrifugedSilver
+	dustSilver
+	ingotSilver
+	cableGtQuadrupleSilver
+	wireGtSingleSilver
+	cableGtDoubleSilver
+	boltSilver
+	foilSilver
+
+Enderium
+	coinEnderium
+	itemGrindingBallEnderium
+	plateEnderium
+	nuggetEnderium
+	blockEnderium
+	gearEnderium
+	dustEnderium
+	ingotEnderium
+
+SiCSiCCMC
+	ingotSiCSiCCMC
+
+ReinforcedEpoxyResin
+	dustSmallReinforcedEpoxyResin
+	plateReinforcedEpoxyResin
+	nuggetReinforcedEpoxyResin
+	blockReinforcedEpoxyResin
+	dustReinforcedEpoxyResin
+	ingotReinforcedEpoxyResin
+	dustTinyReinforcedEpoxyResin
+
+Nichrome
+	stickLongNichrome
+	cableGtHexNichrome
+	screwNichrome
+	wireGtOctalNichrome
+	cableGtSingleNichrome
+	stickNichrome
+	wireGtDoubleNichrome
+	dustTinyNichrome
+	wireGtHexNichrome
+	dustSmallNichrome
+	wireGtQuadrupleNichrome
+	plateNichrome
+	nuggetNichrome
+	blockNichrome
+	cableGtOctalNichrome
+	dustNichrome
+	ingotNichrome
+	cableGtQuadrupleNichrome
+	wireGtSingleNichrome
+	cableGtDoubleNichrome
+	boltNichrome
+
+Topaz
+	boltTopaz
+	lensTopaz
+	gemTopaz
+	gemChippedTopaz
+	crushedTopaz
+	toolHeadPickaxeTopaz
+	crushedPurifiedTopaz
+	oreTopaz
+	stickLongTopaz
+	toolHeadSenseTopaz
+	toolHeadHammerTopaz
+	oreMarbleTopaz
+	oreBasaltTopaz
+	gemFlawlessTopaz
+	toolHeadHoeTopaz
+	turbineBladeTopaz
+	oreRedgraniteTopaz
+	dustPureTopaz
+	toolHeadDrillTopaz
+	dustImpureTopaz
+	toolHeadSawTopaz
+	oreEndstoneTopaz
+	toolHeadBuzzSawTopaz
+	oreBlackgraniteTopaz
+	stickTopaz
+	toolHeadShovelTopaz
+	gemExquisiteTopaz
+	toolHeadAxeTopaz
+	dustTinyTopaz
+	oreNetherrackTopaz
+	dustSmallTopaz
+	oreGravelTopaz
+	toolHeadSwordTopaz
+	toolHeadFileTopaz
+	plateTopaz
+	blockTopaz
+	oreSandTopaz
+	toolHeadChainsawTopaz
+	crushedCentrifugedTopaz
+	toolHeadWrenchTopaz
+	dustTopaz
+	toolHeadUniversalSpadeTopaz
+	gemFlawedTopaz
+
+BlackBronze
+	toolHeadPickaxeBlackBronze
+	gearBlackBronze
+	stickLongBlackBronze
+	toolHeadSenseBlackBronze
+	toolHeadHammerBlackBronze
+	wireFineBlackBronze
+	toolHeadHoeBlackBronze
+	turbineBladeBlackBronze
+	toolHeadDrillBlackBronze
+	toolHeadSawBlackBronze
+	toolHeadBuzzSawBlackBronze
+	screwBlackBronze
+	stickBlackBronze
+	toolHeadShovelBlackBronze
+	toolHeadAxeBlackBronze
+	dustTinyBlackBronze
+	dustSmallBlackBronze
+	toolHeadSwordBlackBronze
+	toolHeadFileBlackBronze
+	plateBlackBronze
+	nuggetBlackBronze
+	blockBlackBronze
+	toolHeadChainsawBlackBronze
+	toolHeadWrenchBlackBronze
+	dustBlackBronze
+	ingotBlackBronze
+	toolHeadUniversalSpadeBlackBronze
+	boltBlackBronze
+	foilBlackBronze
+
+Sapphire
+	gemFlawedSapphire
+	lensSapphire
+	gemSapphire
+	gemChippedSapphire
+	crushedSapphire
+	toolHeadPickaxeSapphire
+	crushedPurifiedSapphire
+	oreSapphire
+	stickLongSapphire
+	toolHeadSenseSapphire
+	toolHeadHammerSapphire
+	oreMarbleSapphire
+	oreBasaltSapphire
+	gemFlawlessSapphire
+	toolHeadHoeSapphire
+	turbineBladeSapphire
+	oreRedgraniteSapphire
+	dustPureSapphire
+	toolHeadDrillSapphire
+	dustImpureSapphire
+	toolHeadSawSapphire
+	oreEndstoneSapphire
+	toolHeadBuzzSawSapphire
+	oreBlackgraniteSapphire
+	stickSapphire
+	toolHeadShovelSapphire
+	gemExquisiteSapphire
+	toolHeadAxeSapphire
+	dustTinySapphire
+	oreNetherrackSapphire
+	dustSmallSapphire
+	oreGravelSapphire
+	toolHeadSwordSapphire
+	toolHeadFileSapphire
+	plateSapphire
+	blockSapphire
+	oreSandSapphire
+	toolHeadChainsawSapphire
+	crushedCentrifugedSapphire
+	toolHeadWrenchSapphire
+	dustSapphire
+	toolHeadUniversalSpadeSapphire
+	boltSapphire
+
+Magnesium
+	dustSmallMagnesium
+	nuggetMagnesium
+	blockMagnesium
+	oreMagnesium
+	dustMagnesium
+	ingotMagnesium
+	dustTinyMagnesium
+
+HotErbium
+	ingotHotErbium
+
+BismuthBronze
+	toolHeadPickaxeBismuthBronze
+	gearBismuthBronze
+	stickLongBismuthBronze
+	toolHeadSenseBismuthBronze
+	toolHeadHammerBismuthBronze
+	wireFineBismuthBronze
+	toolHeadHoeBismuthBronze
+	turbineBladeBismuthBronze
+	toolHeadDrillBismuthBronze
+	toolHeadSawBismuthBronze
+	toolHeadBuzzSawBismuthBronze
+	screwBismuthBronze
+	stickBismuthBronze
+	toolHeadShovelBismuthBronze
+	toolHeadAxeBismuthBronze
+	dustTinyBismuthBronze
+	dustSmallBismuthBronze
+	toolHeadSwordBismuthBronze
+	toolHeadFileBismuthBronze
+	plateBismuthBronze
+	nuggetBismuthBronze
+	blockBismuthBronze
+	toolHeadChainsawBismuthBronze
+	toolHeadWrenchBismuthBronze
+	dustBismuthBronze
+	ingotBismuthBronze
+	toolHeadUniversalSpadeBismuthBronze
+	boltBismuthBronze
+	foilBismuthBronze
+
+BlackIron
+	nuggetBlackIron
+	blockBlackIron
+	ingotBlackIron
+
+Silicon
+	dustSmallSilicon
+	bouleSilicon
+	plateSilicon
+	nuggetSilicon
+	blockSilicon
+	dustTinySilicon
+	dustSilicon
+	ingotSilicon
+	waferSilicon
+	foilSilicon
+
+DamascusSteel
+	toolHeadPickaxeDamascusSteel
+	stickLongDamascusSteel
+	toolHeadSenseDamascusSteel
+	toolHeadHammerDamascusSteel
+	toolHeadHoeDamascusSteel
+	turbineBladeDamascusSteel
+	toolHeadDrillDamascusSteel
+	toolHeadSawDamascusSteel
+	toolHeadBuzzSawDamascusSteel
+	screwDamascusSteel
+	stickDamascusSteel
+	toolHeadShovelDamascusSteel
+	toolHeadAxeDamascusSteel
+	dustTinyDamascusSteel
+	dustSmallDamascusSteel
+	toolHeadSwordDamascusSteel
+	toolHeadFileDamascusSteel
+	plateDamascusSteel
+	nuggetDamascusSteel
+	blockDamascusSteel
+	toolHeadChainsawDamascusSteel
+	toolHeadWrenchDamascusSteel
+	dustDamascusSteel
+	ingotDamascusSteel
+	toolHeadUniversalSpadeDamascusSteel
+	boltDamascusSteel
+
+UraniumOxide
+	dustUraniumOxide
+	ingotUraniumOxide
+
+Plastic
+	dustSmallPlastic
+	pipeLargePlastic
+	platePlastic
+	nuggetPlastic
+	blockPlastic
+	dustPlastic
+	ingotPlastic
+	pipeSmallPlastic
+	pipeMediumPlastic
+	pipeTinyPlastic
+	dustTinyPlastic
+
+BaseEssence
+	nuggetBaseEssence
+	blockBaseEssence
+	ingotBaseEssence
+
+Californium249Oxide
+	nuggetCalifornium249Oxide
+	ingotCalifornium249Oxide
+
+HotYttriumBariumCuprate
+	ingotHotYttriumBariumCuprate
+
+Bismuth
+	oreMarbleBismuth
+	oreBasaltBismuth
+	oreRedgraniteBismuth
+	dustPureBismuth
+	dustImpureBismuth
+	oreEndstoneBismuth
+	oreBlackgraniteBismuth
+	crushedPurifiedBismuth
+	dustTinyBismuth
+	oreNetherrackBismuth
+	dustSmallBismuth
+	oreGravelBismuth
+	crushedBismuth
+	nuggetBismuth
+	blockBismuth
+	oreSandBismuth
+	crushedCentrifugedBismuth
+	oreBismuth
+	dustBismuth
+	ingotBismuth
+
+Sodium
+	dustSmallSodium
+	plateSodium
+	nuggetSodium
+	blockSodium
+	dustSodium
+	ingotSodium
+	dustTinySodium
+
+PolyvinylChloride
+	dustPolyvinylChloride
+	screwPolyvinylChloride
+	stickPolyvinylChloride
+	dustTinyPolyvinylChloride
+	dustSmallPolyvinylChloride
+	platePolyvinylChloride
+	nuggetPolyvinylChloride
+	blockPolyvinylChloride
+	stickLongPolyvinylChloride
+	ingotPolyvinylChloride
+	boltPolyvinylChloride
+	foilPolyvinylChloride
+
+PigIron
+	toolHeadPickaxePigIron
+	stickLongPigIron
+	toolHeadSensePigIron
+	ringPigIron
+	toolHeadHammerPigIron
+	toolHeadHoePigIron
+	turbineBladePigIron
+	toolHeadDrillPigIron
+	toolHeadSawPigIron
+	toolHeadBuzzSawPigIron
+	screwPigIron
+	stickPigIron
+	toolHeadShovelPigIron
+	toolHeadAxePigIron
+	dustTinyPigIron
+	dustSmallPigIron
+	toolHeadSwordPigIron
+	toolHeadFilePigIron
+	platePigIron
+	nuggetPigIron
+	blockPigIron
+	toolHeadChainsawPigIron
+	toolHeadWrenchPigIron
+	dustPigIron
+	ingotPigIron
+	toolHeadUniversalSpadePigIron
+	boltPigIron
+
+HotVanadium
+	ingotHotVanadium
+
+ManganeseOxide
+	dustManganeseOxide
+	ingotManganeseOxide
+
+Manasteel
+	nuggetManasteel
+	ingotManasteel
+
+HotNaquadahEnriched
+	ingotHotNaquadahEnriched
+
+Berkelium247Oxide
+	nuggetBerkelium247Oxide
+	ingotBerkelium247Oxide
+
+Rubber
+	dustRubber
+	dustSmallRawRubber
+	stickRubber
+	dustTinyRubber
+	dustSmallRubber
+	dustTinyRawRubber
+	plateRubber
+	nuggetRubber
+	blockRubber
+	gearRubber
+	dustRawRubber
+	ingotRubber
+	ringRubber
+
+HOPGraphite
+	dustHOPGraphite
+	ingotHOPGraphite
+
+Yttrium
+	dustSmallYttrium
+	plateYttrium
+	nuggetYttrium
+	blockYttrium
+	dustYttrium
+	ingotYttrium
+	dustTinyYttrium
+
+Polycaprolactam
+	dustSmallPolycaprolactam
+	platePolycaprolactam
+	nuggetPolycaprolactam
+	blockPolycaprolactam
+	dustPolycaprolactam
+	ingotPolycaprolactam
+	dustTinyPolycaprolactam
+
+Aluminum
+	gearAluminum
+	scaffoldingAluminum
+	sheetAluminum
+	blockSheetmetalAluminum
+	stickAluminum
+	slabSheetmetalAluminum
+	coinAluminum
+	coilAluminum
+	plateAluminum
+	nuggetAluminum
+	blockAluminum
+	fenceAluminum
+	oreAluminum
+	dustAluminum
+	ingotAluminum
+	slabAluminum
+	wireAluminum
+
+Extreme
+	ingotExtreme
+	circuitExtreme
+
+HotKanthal
+	ingotHotKanthal
+
+Ytterbium
+	dustSmallYtterbium
+	plateYtterbium
+	nuggetYtterbium
+	blockYtterbium
+	dustYtterbium
+	ingotYtterbium
+	dustTinyYtterbium
+
+Intermedium
+	ingotIntermedium
+	essenceIntermedium
+	nuggetIntermedium
+	blockIntermedium
+	coalIntermedium
+
+Graphite
+	oreMarbleGraphite
+	oreBasaltGraphite
+	oreRedgraniteGraphite
+	dustPureGraphite
+	dustImpureGraphite
+	oreEndstoneGraphite
+	oreBlackgraniteGraphite
+	crushedPurifiedGraphite
+	dustTinyGraphite
+	oreNetherrackGraphite
+	dustSmallGraphite
+	oreGravelGraphite
+	crushedGraphite
+	plateGraphite
+	nuggetGraphite
+	blockGraphite
+	oreSandGraphite
+	crushedCentrifugedGraphite
+	oreGraphite
+	dustGraphite
+	ingotGraphite
+
+Void
+	plateVoid
+	nuggetVoid
+	blockVoid
+	dustVoid
+	ingotVoid
+
+Shibuichi
+	ingotShibuichi
+
+Curium245
+	nuggetCurium245
+	ingotCurium245
+
+EndSteel
+	nuggetEndSteel
+	blockEndSteel
+	ingotEndSteel
+	ballEndSteel
+
+HotNichrome
+	ingotHotNichrome
+
+HotTungstenCarbide
+	ingotHotTungstenCarbide
+
+Curium245Oxide
+	nuggetCurium245Oxide
+	ingotCurium245Oxide
+
+Plutonium239Oxide
+	nuggetPlutonium239Oxide
+	ingotPlutonium239Oxide
+
+Cupronickel
+	stickLongCupronickel
+	cableGtHexCupronickel
+	screwCupronickel
+	wireGtOctalCupronickel
+	cableGtSingleCupronickel
+	stickCupronickel
+	wireGtDoubleCupronickel
+	dustTinyCupronickel
+	wireGtHexCupronickel
+	dustSmallCupronickel
+	wireGtQuadrupleCupronickel
+	plateCupronickel
+	nuggetCupronickel
+	blockCupronickel
+	cableGtOctalCupronickel
+	dustCupronickel
+	ingotCupronickel
+	cableGtQuadrupleCupronickel
+	wireGtSingleCupronickel
+	cableGtDoubleCupronickel
+	boltCupronickel
+
+Uranium233Base
+	ingotUranium233Base
+
+Zirconium
+	blockZirconium
+	dustZirconium
+	ingotZirconium
+
+HSLASteel
+	ingotHSLASteel
+
+HotIridium
+	ingotHotIridium
+
+Plutonium
+	dustPlutonium
+	screwPlutonium
+	stickPlutonium
+	dustTinyPlutonium
+	dustSmallPlutonium
+	platePlutonium
+	nuggetPlutonium
+	blockPlutonium
+	stickLongPlutonium
+	ingotPlutonium
+	boltPlutonium
+
+Caesium
+	dustSmallCaesium
+	nuggetCaesium
+	blockCaesium
+	dustCaesium
+	ingotCaesium
+	dustTinyCaesium
+
+SterlingSilver
+	toolHeadPickaxeSterlingSilver
+	gearSterlingSilver
+	stickLongSterlingSilver
+	toolHeadSenseSterlingSilver
+	toolHeadHammerSterlingSilver
+	wireFineSterlingSilver
+	toolHeadHoeSterlingSilver
+	turbineBladeSterlingSilver
+	toolHeadDrillSterlingSilver
+	toolHeadSawSterlingSilver
+	toolHeadBuzzSawSterlingSilver
+	screwSterlingSilver
+	stickSterlingSilver
+	toolHeadShovelSterlingSilver
+	toolHeadAxeSterlingSilver
+	dustTinySterlingSilver
+	dustSmallSterlingSilver
+	toolHeadSwordSterlingSilver
+	toolHeadFileSterlingSilver
+	plateSterlingSilver
+	nuggetSterlingSilver
+	blockSterlingSilver
+	toolHeadChainsawSterlingSilver
+	toolHeadWrenchSterlingSilver
+	dustSterlingSilver
+	ingotSterlingSilver
+	toolHeadUniversalSpadeSterlingSilver
+	boltSterlingSilver
+	foilSterlingSilver
+
+RefinedObsidian
+	nuggetRefinedObsidian
+	blockRefinedObsidian
+	dustRefinedObsidian
+	ingotRefinedObsidian
+
+CrudeSteel
+	nuggetCrudeSteel
+	blockCrudeSteel
+	ingotCrudeSteel
+	ballCrudeSteel
+
+Cadmium
+	dustSmallCadmium
+	nuggetCadmium
+	blockCadmium
+	dustCadmium
+	ingotCadmium
+	dustTinyCadmium
+
+Brass
+	toolHeadPickaxeBrass
+	gearBrass
+	stickLongBrass
+	toolHeadSenseBrass
+	ringBrass
+	toolHeadHammerBrass
+	wireFineBrass
+	toolHeadHoeBrass
+	turbineBladeBrass
+	toolHeadDrillBrass
+	toolHeadSawBrass
+	toolHeadBuzzSawBrass
+	screwBrass
+	stickBrass
+	toolHeadShovelBrass
+	toolHeadAxeBrass
+	dustTinyBrass
+	dustSmallBrass
+	toolHeadSwordBrass
+	toolHeadFileBrass
+	plateBrass
+	nuggetBrass
+	blockBrass
+	toolHeadChainsawBrass
+	toolHeadWrenchBrass
+	dustBrass
+	ingotBrass
+	toolHeadUniversalSpadeBrass
+	boltBrass
+	foilBrass
+
+Iron
+	oreSandBandedIron
+	oreEndstoneBandedIron
+	oreBlackgraniteBandedIron
+	oreRedgraniteBandedIron
+	crushedCentrifugedBandedIron
+	dustSmallBandedIron
+	dustImpureBandedIron
+	dustBandedIron
+	dustPureBandedIron
+	oreGravelBandedIron
+	crushedBandedIron
+	blockBandedIron
+	oreMarbleBandedIron
+	dustTinyBandedIron
+	barsIron
+	crystalIron
+	oreBasaltBandedIron
+	oreBandedIron
+	plateDenseIron
+	sheetIron
+	frameGtIron
+	cableGtHexIron
+	blockSheetmetalIron
+	oreNetherrackBandedIron
+	wireGtDoubleIron
+	dustDirtyIron
+	slabSheetmetalIron
+	wireGtHexIron
+	shardIron
+	coinIron
+	crushedPurifiedBandedIron
+	crushedIron
+	orePoorIron
+	toolHeadPickaxeIron
+	crushedPurifiedIron
+	cableGtOctalIron
+	gearIron
+	oreIron
+	stickLongIron
+	clusterIron
+	toolHeadSenseIron
+	clumpIron
+	ringIron
+	doorIron
+	toolHeadHammerIron
+	wireFineIron
+	oreMarbleIron
+	oreBasaltIron
+	toolHeadHoeIron
+	turbineBladeIron
+	oreRedgraniteIron
+	dustPureIron
+	toolHeadDrillIron
+	dustImpureIron
+	toolHeadSawIron
+	oreEndstoneIron
+	toolHeadBuzzSawIron
+	oreBlackgraniteIron
+	screwIron
+	wireGtOctalIron
+	cableGtSingleIron
+	stickIron
+	toolHeadShovelIron
+	toolHeadAxeIron
+	dustTinyIron
+	oreNetherrackIron
+	dustSmallIron
+	oreGravelIron
+	toolHeadSwordIron
+	toolHeadFileIron
+	wireGtQuadrupleIron
+	plateIron
+	nuggetIron
+	blockIron
+	oreSandIron
+	toolHeadChainsawIron
+	crushedCentrifugedIron
+	toolHeadWrenchIron
+	dustIron
+	ingotIron
+	cableGtQuadrupleIron
+	wireGtSingleIron
+	toolHeadUniversalSpadeIron
+	cableGtDoubleIron
+	boltIron
+	foilIron
+
+BlueSteel
+	frameGtBlueSteel
+	toolHeadPickaxeBlueSteel
+	stickLongBlueSteel
+	toolHeadSenseBlueSteel
+	toolHeadHammerBlueSteel
+	toolHeadHoeBlueSteel
+	turbineBladeBlueSteel
+	toolHeadDrillBlueSteel
+	toolHeadSawBlueSteel
+	toolHeadBuzzSawBlueSteel
+	screwBlueSteel
+	stickBlueSteel
+	toolHeadShovelBlueSteel
+	toolHeadAxeBlueSteel
+	dustTinyBlueSteel
+	dustSmallBlueSteel
+	toolHeadSwordBlueSteel
+	toolHeadFileBlueSteel
+	plateBlueSteel
+	nuggetBlueSteel
+	blockBlueSteel
+	toolHeadChainsawBlueSteel
+	toolHeadWrenchBlueSteel
+	dustBlueSteel
+	ingotBlueSteel
+	toolHeadUniversalSpadeBlueSteel
+	boltBlueSteel
+
+Hsss
+	toolHeadPickaxeHsss
+	gearHsss
+	stickLongHsss
+	toolHeadSenseHsss
+	toolHeadHammerHsss
+	wireFineHsss
+	toolHeadHoeHsss
+	turbineBladeHsss
+	toolHeadDrillHsss
+	toolHeadSawHsss
+	toolHeadBuzzSawHsss
+	screwHsss
+	stickHsss
+	toolHeadShovelHsss
+	toolHeadAxeHsss
+	dustTinyHsss
+	dustSmallHsss
+	toolHeadSwordHsss
+	toolHeadFileHsss
+	plateHsss
+	nuggetHsss
+	blockHsss
+	toolHeadChainsawHsss
+	toolHeadWrenchHsss
+	dustHsss
+	ingotHsss
+	toolHeadUniversalSpadeHsss
+	boltHsss
+	foilHsss
+
+Thorium232Base
+	ingotThorium232Base
+
+Soularium
+	nuggetSoularium
+	blockSoularium
+	dustSoularium
+	ingotSoularium
+	ballSoularium
+
+Neptunium237Oxide
+	nuggetNeptunium237Oxide
+	ingotNeptunium237Oxide
+
+NaquadahEnriched
+	crushedNaquadahEnriched
+	toolHeadPickaxeNaquadahEnriched
+	crushedPurifiedNaquadahEnriched
+	oreNaquadahEnriched
+	stickLongNaquadahEnriched
+	toolHeadSenseNaquadahEnriched
+	toolHeadHammerNaquadahEnriched
+	oreMarbleNaquadahEnriched
+	oreBasaltNaquadahEnriched
+	toolHeadHoeNaquadahEnriched
+	turbineBladeNaquadahEnriched
+	oreRedgraniteNaquadahEnriched
+	dustPureNaquadahEnriched
+	toolHeadDrillNaquadahEnriched
+	dustImpureNaquadahEnriched
+	toolHeadSawNaquadahEnriched
+	oreEndstoneNaquadahEnriched
+	toolHeadBuzzSawNaquadahEnriched
+	oreBlackgraniteNaquadahEnriched
+	screwNaquadahEnriched
+	stickNaquadahEnriched
+	toolHeadShovelNaquadahEnriched
+	toolHeadAxeNaquadahEnriched
+	dustTinyNaquadahEnriched
+	oreNetherrackNaquadahEnriched
+	dustSmallNaquadahEnriched
+	oreGravelNaquadahEnriched
+	toolHeadSwordNaquadahEnriched
+	toolHeadFileNaquadahEnriched
+	plateNaquadahEnriched
+	nuggetNaquadahEnriched
+	blockNaquadahEnriched
+	oreSandNaquadahEnriched
+	toolHeadChainsawNaquadahEnriched
+	crushedCentrifugedNaquadahEnriched
+	toolHeadWrenchNaquadahEnriched
+	dustNaquadahEnriched
+	ingotNaquadahEnriched
+	toolHeadUniversalSpadeNaquadahEnriched
+	boltNaquadahEnriched
+
+Uranium238Oxide
+	nuggetUranium238Oxide
+	ingotUranium238Oxide
+
+BlueTopaz
+	boltBlueTopaz
+	lensBlueTopaz
+	gemBlueTopaz
+	gemChippedBlueTopaz
+	crushedBlueTopaz
+	toolHeadPickaxeBlueTopaz
+	crushedPurifiedBlueTopaz
+	oreBlueTopaz
+	stickLongBlueTopaz
+	toolHeadSenseBlueTopaz
+	toolHeadHammerBlueTopaz
+	oreMarbleBlueTopaz
+	oreBasaltBlueTopaz
+	gemFlawlessBlueTopaz
+	toolHeadHoeBlueTopaz
+	turbineBladeBlueTopaz
+	oreRedgraniteBlueTopaz
+	dustPureBlueTopaz
+	toolHeadDrillBlueTopaz
+	dustImpureBlueTopaz
+	toolHeadSawBlueTopaz
+	oreEndstoneBlueTopaz
+	toolHeadBuzzSawBlueTopaz
+	oreBlackgraniteBlueTopaz
+	stickBlueTopaz
+	toolHeadShovelBlueTopaz
+	gemExquisiteBlueTopaz
+	toolHeadAxeBlueTopaz
+	dustTinyBlueTopaz
+	oreNetherrackBlueTopaz
+	dustSmallBlueTopaz
+	oreGravelBlueTopaz
+	toolHeadSwordBlueTopaz
+	toolHeadFileBlueTopaz
+	plateBlueTopaz
+	blockBlueTopaz
+	oreSandBlueTopaz
+	toolHeadChainsawBlueTopaz
+	crushedCentrifugedBlueTopaz
+	toolHeadWrenchBlueTopaz
+	dustBlueTopaz
+	toolHeadUniversalSpadeBlueTopaz
+	gemFlawedBlueTopaz
+
+Neptunium236Base
+	ingotNeptunium236Base
+
+Hssg
+	frameGtHssg
+	cableGtHexHssg
+	wireGtDoubleHssg
+	wireGtHexHssg
+	rotorHssg
+	toolHeadPickaxeHssg
+	cableGtOctalHssg
+	gearHssg
+	stickLongHssg
+	toolHeadSenseHssg
+	ringHssg
+	toolHeadHammerHssg
+	wireFineHssg
+	toolHeadHoeHssg
+	turbineBladeHssg
+	toolHeadDrillHssg
+	toolHeadSawHssg
+	toolHeadBuzzSawHssg
+	gearSmallHssg
+	screwHssg
+	wireGtOctalHssg
+	cableGtSingleHssg
+	stickHssg
+	toolHeadShovelHssg
+	toolHeadAxeHssg
+	dustTinyHssg
+	dustSmallHssg
+	toolHeadSwordHssg
+	toolHeadFileHssg
+	wireGtQuadrupleHssg
+	plateHssg
+	nuggetHssg
+	blockHssg
+	toolHeadChainsawHssg
+	toolHeadWrenchHssg
+	dustHssg
+	ingotHssg
+	cableGtQuadrupleHssg
+	wireGtSingleHssg
+	toolHeadUniversalSpadeHssg
+	cableGtDoubleHssg
+	boltHssg
+	foilHssg
+
+Hsse
+	frameGtHsse
+	rotorHsse
+	toolHeadPickaxeHsse
+	gearHsse
+	stickLongHsse
+	toolHeadSenseHsse
+	ringHsse
+	toolHeadHammerHsse
+	wireFineHsse
+	toolHeadHoeHsse
+	turbineBladeHsse
+	toolHeadDrillHsse
+	toolHeadSawHsse
+	toolHeadBuzzSawHsse
+	gearSmallHsse
+	screwHsse
+	stickHsse
+	toolHeadShovelHsse
+	toolHeadAxeHsse
+	dustTinyHsse
+	dustSmallHsse
+	toolHeadSwordHsse
+	toolHeadFileHsse
+	plateHsse
+	nuggetHsse
+	blockHsse
+	toolHeadChainsawHsse
+	toolHeadWrenchHsse
+	dustHsse
+	ingotHsse
+	toolHeadUniversalSpadeHsse
+	boltHsse
+	foilHsse
+
+Americium
+	dustSmallAmericium
+	plateAmericium
+	nuggetAmericium
+	blockAmericium
+	stickLongAmericium
+	dustAmericium
+	ingotAmericium
+	stickAmericium
+	dustTinyAmericium
+
+Ardite
+	nuggetArdite
+	blockArdite
+	oreArdite
+	ingotArdite
+
+Californium251Base
+	ingotCalifornium251Base
+
+Clay
+	dustSmallClay
+	blockClay
+	dustClay
+	ingotClay
+	dustTinyClay
+
+RoseGold
+	toolHeadPickaxeRoseGold
+	gearRoseGold
+	stickLongRoseGold
+	toolHeadSenseRoseGold
+	toolHeadHammerRoseGold
+	wireFineRoseGold
+	toolHeadHoeRoseGold
+	turbineBladeRoseGold
+	toolHeadDrillRoseGold
+	toolHeadSawRoseGold
+	toolHeadBuzzSawRoseGold
+	screwRoseGold
+	stickRoseGold
+	toolHeadShovelRoseGold
+	toolHeadAxeRoseGold
+	dustTinyRoseGold
+	dustSmallRoseGold
+	toolHeadSwordRoseGold
+	toolHeadFileRoseGold
+	plateRoseGold
+	nuggetRoseGold
+	blockRoseGold
+	toolHeadChainsawRoseGold
+	toolHeadWrenchRoseGold
+	dustRoseGold
+	ingotRoseGold
+	toolHeadUniversalSpadeRoseGold
+	boltRoseGold
+	foilRoseGold
+
+Osmiridium
+	toolHeadPickaxeOsmiridium
+	gearOsmiridium
+	stickLongOsmiridium
+	toolHeadSenseOsmiridium
+	toolHeadHammerOsmiridium
+	wireFineOsmiridium
+	toolHeadHoeOsmiridium
+	turbineBladeOsmiridium
+	toolHeadDrillOsmiridium
+	toolHeadSawOsmiridium
+	toolHeadBuzzSawOsmiridium
+	screwOsmiridium
+	stickOsmiridium
+	toolHeadShovelOsmiridium
+	toolHeadAxeOsmiridium
+	dustTinyOsmiridium
+	dustSmallOsmiridium
+	toolHeadSwordOsmiridium
+	toolHeadFileOsmiridium
+	plateOsmiridium
+	nuggetOsmiridium
+	blockOsmiridium
+	toolHeadChainsawOsmiridium
+	toolHeadWrenchOsmiridium
+	dustOsmiridium
+	ingotOsmiridium
+	toolHeadUniversalSpadeOsmiridium
+	boltOsmiridium
+	foilOsmiridium
+
+AnnealedCopper
+	cableGtHexAnnealedCopper
+	wireGtDoubleAnnealedCopper
+	wireGtHexAnnealedCopper
+	cableGtOctalAnnealedCopper
+	gearAnnealedCopper
+	stickLongAnnealedCopper
+	wireFineAnnealedCopper
+	screwAnnealedCopper
+	wireGtOctalAnnealedCopper
+	cableGtSingleAnnealedCopper
+	stickAnnealedCopper
+	dustTinyAnnealedCopper
+	dustSmallAnnealedCopper
+	wireGtQuadrupleAnnealedCopper
+	plateAnnealedCopper
+	nuggetAnnealedCopper
+	blockAnnealedCopper
+	dustAnnealedCopper
+	ingotAnnealedCopper
+	cableGtQuadrupleAnnealedCopper
+	wireGtSingleAnnealedCopper
+	cableGtDoubleAnnealedCopper
+	boltAnnealedCopper
+	foilAnnealedCopper
+
+Americium243Oxide
+	nuggetAmericium243Oxide
+	ingotAmericium243Oxide
+
+Marshmallow
+	ingotMarshmallow
+
+Uranium238Base
+	ingotUranium238Base
+
+Plutonium238Base
+	ingotPlutonium238Base
+
+Tin
+	crystalTin
+	plateDenseTin
+	cableGtHexTin
+	wireGtDoubleTin
+	dustDirtyTin
+	wireGtHexTin
+	shardTin
+	coinTin
+	rotorTin
+	crushedTin
+	orePoorTin
+	crushedPurifiedTin
+	cableGtOctalTin
+	gearTin
+	oreTin
+	stickLongTin
+	clusterTin
+	clumpTin
+	ringTin
+	wireFineTin
+	oreMarbleTin
+	oreBasaltTin
+	oreRedgraniteTin
+	dustPureTin
+	dustImpureTin
+	oreEndstoneTin
+	oreBlackgraniteTin
+	screwTin
+	wireGtOctalTin
+	cableGtSingleTin
+	stickTin
+	dustTinyTin
+	oreNetherrackTin
+	dustSmallTin
+	oreGravelTin
+	wireGtQuadrupleTin
+	plateTin
+	nuggetTin
+	blockTin
+	oreSandTin
+	crushedCentrifugedTin
+	dustTin
+	ingotTin
+	cableGtQuadrupleTin
+	wireGtSingleTin
+	cableGtDoubleTin
+	boltTin
+	foilTin
+
+NiobiumNitride
+	dustNiobiumNitride
+	screwNiobiumNitride
+	stickNiobiumNitride
+	dustTinyNiobiumNitride
+	dustSmallNiobiumNitride
+	plateNiobiumNitride
+	nuggetNiobiumNitride
+	blockNiobiumNitride
+	stickLongNiobiumNitride
+	ingotNiobiumNitride
+	boltNiobiumNitride
+
+Uranium
+	blockSheetmetalUranium
+	slabSheetmetalUranium
+	crushedUranium
+	toolHeadPickaxeUranium
+	crushedPurifiedUranium
+	oreUranium
+	toolHeadSenseUranium
+	toolHeadHammerUranium
+	oreMarbleUranium
+	oreBasaltUranium
+	toolHeadHoeUranium
+	turbineBladeUranium
+	oreRedgraniteUranium
+	dustPureUranium
+	toolHeadDrillUranium
+	dustImpureUranium
+	toolHeadSawUranium
+	oreEndstoneUranium
+	toolHeadBuzzSawUranium
+	oreBlackgraniteUranium
+	toolHeadShovelUranium
+	toolHeadAxeUranium
+	dustTinyUranium
+	oreNetherrackUranium
+	dustSmallUranium
+	oreGravelUranium
+	toolHeadSwordUranium
+	toolHeadFileUranium
+	plateUranium
+	nuggetUranium
+	blockUranium
+	oreSandUranium
+	toolHeadChainsawUranium
+	crushedCentrifugedUranium
+	toolHeadWrenchUranium
+	dustUranium
+	ingotUranium
+	toolHeadUniversalSpadeUranium
+	slabUranium
+
+YttriumBariumCuprate
+	cableGtHexYttriumBariumCuprate
+	wireGtDoubleYttriumBariumCuprate
+	wireGtHexYttriumBariumCuprate
+	cableGtOctalYttriumBariumCuprate
+	stickLongYttriumBariumCuprate
+	wireFineYttriumBariumCuprate
+	screwYttriumBariumCuprate
+	wireGtOctalYttriumBariumCuprate
+	cableGtSingleYttriumBariumCuprate
+	stickYttriumBariumCuprate
+	dustTinyYttriumBariumCuprate
+	dustSmallYttriumBariumCuprate
+	wireGtQuadrupleYttriumBariumCuprate
+	plateYttriumBariumCuprate
+	nuggetYttriumBariumCuprate
+	blockYttriumBariumCuprate
+	dustYttriumBariumCuprate
+	ingotYttriumBariumCuprate
+	cableGtQuadrupleYttriumBariumCuprate
+	wireGtSingleYttriumBariumCuprate
+	cableGtDoubleYttriumBariumCuprate
+	boltYttriumBariumCuprate
+	foilYttriumBariumCuprate
+
+Lead
+	tinyDustLead
+	crystalLead
+	slabLead
+	plateDenseLead
+	cableGtHexLead
+	blockSheetmetalLead
+	wireGtDoubleLead
+	dustDirtyLead
+	slabSheetmetalLead
+	wireGtHexLead
+	shardLead
+	coinLead
+	crushedLead
+	orePoorLead
+	crushedPurifiedLead
+	cableGtOctalLead
+	gearLead
+	oreLead
+	stickLongLead
+	clusterLead
+	clumpLead
+	wireFineLead
+	oreMarbleLead
+	oreBasaltLead
+	oreRedgraniteLead
+	dustPureLead
+	dustImpureLead
+	oreEndstoneLead
+	oreBlackgraniteLead
+	screwLead
+	wireGtOctalLead
+	cableGtSingleLead
+	stickLead
+	dustTinyLead
+	oreNetherrackLead
+	dustSmallLead
+	oreGravelLead
+	wireGtQuadrupleLead
+	plateLead
+	nuggetLead
+	blockLead
+	oreSandLead
+	crushedCentrifugedLead
+	dustLead
+	ingotLead
+	cableGtQuadrupleLead
+	wireGtSingleLead
+	cableGtDoubleLead
+	boltLead
+	foilLead
+
+Cerium
+	dustSmallCerium
+	nuggetCerium
+	blockCerium
+	dustCerium
+	ingotCerium
+	dustTinyCerium
+
+Americium241Base
+	ingotAmericium241Base
+
+Plutonium238Oxide
+	nuggetPlutonium238Oxide
+	ingotPlutonium238Oxide
+
+Rubidium
+	dustSmallRubidium
+	plateRubidium
+	nuggetRubidium
+	blockRubidium
+	dustRubidium
+	ingotRubidium
+	dustTinyRubidium
+
+HardCarbon
+	ingotHardCarbon
+
+Lutetium
+	dustSmallLutetium
+	nuggetLutetium
+	blockLutetium
+	dustLutetium
+	ingotLutetium
+	dustTinyLutetium
+
+RedSteel
+	toolHeadPickaxeRedSteel
+	stickLongRedSteel
+	toolHeadSenseRedSteel
+	toolHeadHammerRedSteel
+	toolHeadHoeRedSteel
+	turbineBladeRedSteel
+	toolHeadDrillRedSteel
+	toolHeadSawRedSteel
+	toolHeadBuzzSawRedSteel
+	screwRedSteel
+	stickRedSteel
+	toolHeadShovelRedSteel
+	toolHeadAxeRedSteel
+	dustTinyRedSteel
+	dustSmallRedSteel
+	toolHeadSwordRedSteel
+	toolHeadFileRedSteel
+	plateRedSteel
+	nuggetRedSteel
+	blockRedSteel
+	toolHeadChainsawRedSteel
+	toolHeadWrenchRedSteel
+	dustRedSteel
+	ingotRedSteel
+	toolHeadUniversalSpadeRedSteel
+	boltRedSteel
+
+Praseodymium
+	dustPraseodymium
+	screwPraseodymium
+	stickPraseodymium
+	dustTinyPraseodymium
+	dustSmallPraseodymium
+	platePraseodymium
+	nuggetPraseodymium
+	blockPraseodymium
+	stickLongPraseodymium
+	ingotPraseodymium
+	boltPraseodymium
+
+PulsatingIron
+	nuggetPulsatingIron
+	blockPulsatingIron
+	ingotPulsatingIron
+	ballPulsatingIron
+
+Boron11
+	nuggetBoron11
+	ingotBoron11
+
+Boron10
+	nuggetBoron10
+	ingotBoron10
+
+Graphene
+	cableGtHexGraphene
+	wireGtOctalGraphene
+	cableGtSingleGraphene
+	wireGtDoubleGraphene
+	dustTinyGraphene
+	wireGtHexGraphene
+	dustSmallGraphene
+	wireGtQuadrupleGraphene
+	plateGraphene
+	nuggetGraphene
+	blockGraphene
+	cableGtOctalGraphene
+	dustGraphene
+	ingotGraphene
+	cableGtQuadrupleGraphene
+	wireGtSingleGraphene
+	cableGtDoubleGraphene
+
+IronMagnetic
+	wireFineIronMagnetic
+	stickLongIronMagnetic
+	screwIronMagnetic
+	stickIronMagnetic
+	dustTinyIronMagnetic
+	dustSmallIronMagnetic
+	plateIronMagnetic
+	nuggetIronMagnetic
+	blockIronMagnetic
+	gearIronMagnetic
+	dustIronMagnetic
+	ingotIronMagnetic
+	boltIronMagnetic
+	foilIronMagnetic
+
+Neodymium
+	crushedNeodymium
+	toolHeadPickaxeNeodymium
+	crushedPurifiedNeodymium
+	oreNeodymium
+	toolHeadSenseNeodymium
+	toolHeadHammerNeodymium
+	oreMarbleNeodymium
+	oreBasaltNeodymium
+	toolHeadHoeNeodymium
+	turbineBladeNeodymium
+	oreRedgraniteNeodymium
+	dustPureNeodymium
+	toolHeadDrillNeodymium
+	dustImpureNeodymium
+	toolHeadSawNeodymium
+	oreEndstoneNeodymium
+	toolHeadBuzzSawNeodymium
+	oreBlackgraniteNeodymium
+	stickNeodymium
+	toolHeadShovelNeodymium
+	toolHeadAxeNeodymium
+	dustTinyNeodymium
+	oreNetherrackNeodymium
+	dustSmallNeodymium
+	oreGravelNeodymium
+	toolHeadSwordNeodymium
+	toolHeadFileNeodymium
+	plateNeodymium
+	nuggetNeodymium
+	blockNeodymium
+	oreSandNeodymium
+	toolHeadChainsawNeodymium
+	crushedCentrifugedNeodymium
+	toolHeadWrenchNeodymium
+	dustNeodymium
+	ingotNeodymium
+	toolHeadUniversalSpadeNeodymium
+
+IndiumGalliumPhosphide
+	dustSmallIndiumGalliumPhosphide
+	plateIndiumGalliumPhosphide
+	nuggetIndiumGalliumPhosphide
+	blockIndiumGalliumPhosphide
+	dustIndiumGalliumPhosphide
+	ingotIndiumGalliumPhosphide
+	dustTinyIndiumGalliumPhosphide
+
+Plutonium241Base
+	ingotPlutonium241Base
+
+Niobium
+	oreMarbleNiobium
+	oreBasaltNiobium
+	oreRedgraniteNiobium
+	dustPureNiobium
+	dustImpureNiobium
+	oreEndstoneNiobium
+	oreBlackgraniteNiobium
+	crushedPurifiedNiobium
+	dustTinyNiobium
+	oreNetherrackNiobium
+	dustSmallNiobium
+	oreGravelNiobium
+	crushedNiobium
+	plateNiobium
+	nuggetNiobium
+	blockNiobium
+	oreSandNiobium
+	crushedCentrifugedNiobium
+	oreNiobium
+	dustNiobium
+	ingotNiobium
+
+ThoriumOxide
+	dustThoriumOxide
+	ingotThoriumOxide
+
+Neptunium236Oxide
+	nuggetNeptunium236Oxide
+	ingotNeptunium236Oxide
+
+Unstable
+	nuggetUnstable
+	ingotUnstable
+
+Molybdenum
+	crushedMolybdenum
+	toolHeadPickaxeMolybdenum
+	crushedPurifiedMolybdenum
+	oreMolybdenum
+	toolHeadSenseMolybdenum
+	toolHeadHammerMolybdenum
+	oreMarbleMolybdenum
+	oreBasaltMolybdenum
+	toolHeadHoeMolybdenum
+	turbineBladeMolybdenum
+	oreRedgraniteMolybdenum
+	dustPureMolybdenum
+	toolHeadDrillMolybdenum
+	dustImpureMolybdenum
+	toolHeadSawMolybdenum
+	oreEndstoneMolybdenum
+	toolHeadBuzzSawMolybdenum
+	oreBlackgraniteMolybdenum
+	toolHeadShovelMolybdenum
+	toolHeadAxeMolybdenum
+	dustTinyMolybdenum
+	oreNetherrackMolybdenum
+	dustSmallMolybdenum
+	oreGravelMolybdenum
+	toolHeadSwordMolybdenum
+	toolHeadFileMolybdenum
+	nuggetMolybdenum
+	blockMolybdenum
+	oreSandMolybdenum
+	toolHeadChainsawMolybdenum
+	crushedCentrifugedMolybdenum
+	toolHeadWrenchMolybdenum
+	dustMolybdenum
+	ingotMolybdenum
+	toolHeadUniversalSpadeMolybdenum
+
+EnergeticSilver
+	nuggetEnergeticSilver
+	blockEnergeticSilver
+	ingotEnergeticSilver
+	ballEnergeticSilver
+
+Erbium
+	dustSmallErbium
+	plateErbium
+	nuggetErbium
+	blockErbium
+	dustErbium
+	ingotErbium
+	dustTinyErbium
+
+Signalum
+	coinSignalum
+	itemGrindingBallSignalum
+	plateSignalum
+	nuggetSignalum
+	blockSignalum
+	gearSignalum
+	dustSignalum
+	ingotSignalum
+
+Tellurium
+	dustSmallTellurium
+	plateTellurium
+	nuggetTellurium
+	blockTellurium
+	dustTellurium
+	ingotTellurium
+	dustTinyTellurium
+
+NaquadahAlloy
+	cableGtHexNaquadahAlloy
+	wireGtDoubleNaquadahAlloy
+	wireGtHexNaquadahAlloy
+	toolHeadPickaxeNaquadahAlloy
+	cableGtOctalNaquadahAlloy
+	gearNaquadahAlloy
+	stickLongNaquadahAlloy
+	toolHeadSenseNaquadahAlloy
+	toolHeadHammerNaquadahAlloy
+	wireFineNaquadahAlloy
+	toolHeadHoeNaquadahAlloy
+	turbineBladeNaquadahAlloy
+	toolHeadDrillNaquadahAlloy
+	toolHeadSawNaquadahAlloy
+	toolHeadBuzzSawNaquadahAlloy
+	screwNaquadahAlloy
+	wireGtOctalNaquadahAlloy
+	cableGtSingleNaquadahAlloy
+	stickNaquadahAlloy
+	toolHeadShovelNaquadahAlloy
+	toolHeadAxeNaquadahAlloy
+	dustTinyNaquadahAlloy
+	dustSmallNaquadahAlloy
+	toolHeadSwordNaquadahAlloy
+	toolHeadFileNaquadahAlloy
+	wireGtQuadrupleNaquadahAlloy
+	plateNaquadahAlloy
+	nuggetNaquadahAlloy
+	blockNaquadahAlloy
+	toolHeadChainsawNaquadahAlloy
+	toolHeadWrenchNaquadahAlloy
+	dustNaquadahAlloy
+	ingotNaquadahAlloy
+	cableGtQuadrupleNaquadahAlloy
+	wireGtSingleNaquadahAlloy
+	toolHeadUniversalSpadeNaquadahAlloy
+	cableGtDoubleNaquadahAlloy
+	boltNaquadahAlloy
+	foilNaquadahAlloy
+
+SolderingAlloy
+	cableGtHexSolderingAlloy
+	wireGtDoubleSolderingAlloy
+	wireGtHexSolderingAlloy
+	cableGtOctalSolderingAlloy
+	stickLongSolderingAlloy
+	wireFineSolderingAlloy
+	screwSolderingAlloy
+	wireGtOctalSolderingAlloy
+	cableGtSingleSolderingAlloy
+	stickSolderingAlloy
+	dustTinySolderingAlloy
+	dustSmallSolderingAlloy
+	wireGtQuadrupleSolderingAlloy
+	plateSolderingAlloy
+	nuggetSolderingAlloy
+	blockSolderingAlloy
+	dustSolderingAlloy
+	ingotSolderingAlloy
+	cableGtQuadrupleSolderingAlloy
+	wireGtSingleSolderingAlloy
+	cableGtDoubleSolderingAlloy
+	boltSolderingAlloy
+	foilSolderingAlloy
+
+UnsweetenedChocolate
+	ingotUnsweetenedChocolate
+
+Americium242Oxide
+	nuggetAmericium242Oxide
+	ingotAmericium242Oxide
+
+Mithril
+	coinMithril
+	plateMithril
+	nuggetMithril
+	blockMithril
+	gearMithril
+	oreMithril
+	dustMithril
+	ingotMithril
+
+Invar
+	frameGtInvar
+	coinInvar
+	toolHeadPickaxeInvar
+	gearInvar
+	stickLongInvar
+	toolHeadSenseInvar
+	ringInvar
+	toolHeadHammerInvar
+	wireFineInvar
+	toolHeadHoeInvar
+	turbineBladeInvar
+	toolHeadDrillInvar
+	toolHeadSawInvar
+	toolHeadBuzzSawInvar
+	screwInvar
+	stickInvar
+	toolHeadShovelInvar
+	toolHeadAxeInvar
+	dustTinyInvar
+	dustSmallInvar
+	toolHeadSwordInvar
+	toolHeadFileInvar
+	plateInvar
+	nuggetInvar
+	blockInvar
+	toolHeadChainsawInvar
+	toolHeadWrenchInvar
+	dustInvar
+	ingotInvar
+	toolHeadUniversalSpadeInvar
+	boltInvar
+	foilInvar
+
+BlackSteel
+	cableGtHexBlackSteel
+	wireGtDoubleBlackSteel
+	wireGtHexBlackSteel
+	toolHeadPickaxeBlackSteel
+	cableGtOctalBlackSteel
+	stickLongBlackSteel
+	toolHeadSenseBlackSteel
+	toolHeadHammerBlackSteel
+	toolHeadHoeBlackSteel
+	turbineBladeBlackSteel
+	toolHeadDrillBlackSteel
+	toolHeadSawBlackSteel
+	toolHeadBuzzSawBlackSteel
+	screwBlackSteel
+	wireGtOctalBlackSteel
+	cableGtSingleBlackSteel
+	stickBlackSteel
+	toolHeadShovelBlackSteel
+	toolHeadAxeBlackSteel
+	dustTinyBlackSteel
+	dustSmallBlackSteel
+	toolHeadSwordBlackSteel
+	toolHeadFileBlackSteel
+	wireGtQuadrupleBlackSteel
+	plateBlackSteel
+	nuggetBlackSteel
+	blockBlackSteel
+	toolHeadChainsawBlackSteel
+	toolHeadWrenchBlackSteel
+	dustBlackSteel
+	ingotBlackSteel
+	cableGtQuadrupleBlackSteel
+	wireGtSingleBlackSteel
+	toolHeadUniversalSpadeBlackSteel
+	cableGtDoubleBlackSteel
+	boltBlackSteel
+
+GreenSapphire
+	lensGreenSapphire
+	gemGreenSapphire
+	gemChippedGreenSapphire
+	crushedGreenSapphire
+	toolHeadPickaxeGreenSapphire
+	crushedPurifiedGreenSapphire
+	oreGreenSapphire
+	toolHeadSenseGreenSapphire
+	toolHeadHammerGreenSapphire
+	oreMarbleGreenSapphire
+	oreBasaltGreenSapphire
+	gemFlawlessGreenSapphire
+	toolHeadHoeGreenSapphire
+	turbineBladeGreenSapphire
+	oreRedgraniteGreenSapphire
+	dustPureGreenSapphire
+	toolHeadDrillGreenSapphire
+	dustImpureGreenSapphire
+	toolHeadSawGreenSapphire
+	oreEndstoneGreenSapphire
+	toolHeadBuzzSawGreenSapphire
+	oreBlackgraniteGreenSapphire
+	toolHeadShovelGreenSapphire
+	gemExquisiteGreenSapphire
+	toolHeadAxeGreenSapphire
+	dustTinyGreenSapphire
+	oreNetherrackGreenSapphire
+	dustSmallGreenSapphire
+	oreGravelGreenSapphire
+	toolHeadSwordGreenSapphire
+	toolHeadFileGreenSapphire
+	plateGreenSapphire
+	blockGreenSapphire
+	oreSandGreenSapphire
+	toolHeadChainsawGreenSapphire
+	crushedCentrifugedGreenSapphire
+	toolHeadWrenchGreenSapphire
+	dustGreenSapphire
+	toolHeadUniversalSpadeGreenSapphire
+	gemFlawedGreenSapphire
+
+Californium249Base
+	ingotCalifornium249Base
+
+Manganese
+	toolHeadPickaxeManganese
+	toolHeadSenseManganese
+	toolHeadHammerManganese
+	toolHeadHoeManganese
+	turbineBladeManganese
+	toolHeadDrillManganese
+	toolHeadSawManganese
+	toolHeadBuzzSawManganese
+	toolHeadShovelManganese
+	toolHeadAxeManganese
+	dustTinyManganese
+	dustSmallManganese
+	toolHeadSwordManganese
+	toolHeadFileManganese
+	plateManganese
+	nuggetManganese
+	blockManganese
+	toolHeadChainsawManganese
+	toolHeadWrenchManganese
+	dustManganese
+	ingotManganese
+	toolHeadUniversalSpadeManganese
+	dustCarbonManganese
+	foilManganese
+
+Nickel
+	cableGtHexNickel
+	blockSheetmetalNickel
+	wireGtDoubleNickel
+	slabSheetmetalNickel
+	wireGtHexNickel
+	coinNickel
+	crushedNickel
+	orePoorNickel
+	crushedPurifiedNickel
+	cableGtOctalNickel
+	gearNickel
+	oreNickel
+	oreMarbleNickel
+	oreBasaltNickel
+	oreRedgraniteNickel
+	dustPureNickel
+	dustImpureNickel
+	oreEndstoneNickel
+	oreBlackgraniteNickel
+	wireGtOctalNickel
+	cableGtSingleNickel
+	dustTinyNickel
+	oreNetherrackNickel
+	dustSmallNickel
+	oreGravelNickel
+	wireGtQuadrupleNickel
+	plateNickel
+	nuggetNickel
+	blockNickel
+	oreSandNickel
+	crushedCentrifugedNickel
+	dustNickel
+	ingotNickel
+	cableGtQuadrupleNickel
+	wireGtSingleNickel
+	cableGtDoubleNickel
+	slabNickel
+
+Thaumium
+	plateThaumium
+	nuggetThaumium
+	blockThaumium
+	ingotThaumium
+
+Californium252Oxide
+	nuggetCalifornium252Oxide
+	ingotCalifornium252Oxide
+
+Terbium
+	dustSmallTerbium
+	plateTerbium
+	nuggetTerbium
+	blockTerbium
+	dustTerbium
+	ingotTerbium
+	dustTinyTerbium
+
+SiliconCarbide
+	fiberSiliconCarbide
+	ingotSiliconCarbide
+
+HotScandium
+	ingotHotScandium
+
+Barium
+	dustSmallBarium
+	nuggetBarium
+	blockBarium
+	dustBarium
+	ingotBarium
+	dustTinyBarium
+
+HotNiobiumNitride
+	ingotHotNiobiumNitride
+
+HotLutetium
+	ingotHotLutetium
+
+Uranium238
+	nuggetUranium238
+	blockUranium238
+	ingotUranium238
+
+Lithium
+	oreMarbleLithium
+	oreBasaltLithium
+	oreRedgraniteLithium
+	dustPureLithium
+	dustImpureLithium
+	oreEndstoneLithium
+	oreBlackgraniteLithium
+	crushedPurifiedLithium
+	dustTinyLithium
+	oreNetherrackLithium
+	dustSmallLithium
+	oreGravelLithium
+	crushedLithium
+	plateLithium
+	nuggetLithium
+	blockLithium
+	oreSandLithium
+	crushedCentrifugedLithium
+	oreLithium
+	dustLithium
+	ingotLithium
+
+Uranium235
+	crushedUranium235
+	toolHeadPickaxeUranium235
+	crushedPurifiedUranium235
+	oreUranium235
+	toolHeadSenseUranium235
+	toolHeadHammerUranium235
+	oreMarbleUranium235
+	oreBasaltUranium235
+	toolHeadHoeUranium235
+	turbineBladeUranium235
+	oreRedgraniteUranium235
+	dustPureUranium235
+	toolHeadDrillUranium235
+	dustImpureUranium235
+	toolHeadSawUranium235
+	oreEndstoneUranium235
+	toolHeadBuzzSawUranium235
+	oreBlackgraniteUranium235
+	stickUranium235
+	toolHeadShovelUranium235
+	toolHeadAxeUranium235
+	dustTinyUranium235
+	oreNetherrackUranium235
+	dustSmallUranium235
+	oreGravelUranium235
+	toolHeadSwordUranium235
+	toolHeadFileUranium235
+	plateUranium235
+	nuggetUranium235
+	blockUranium235
+	oreSandUranium235
+	toolHeadChainsawUranium235
+	crushedCentrifugedUranium235
+	toolHeadWrenchUranium235
+	dustUranium235
+	ingotUranium235
+	toolHeadUniversalSpadeUranium235
+
+Curium243Oxide
+	nuggetCurium243Oxide
+	ingotCurium243Oxide
+
+Plutonium242
+	nuggetPlutonium242
+	blockPlutonium242
+	ingotPlutonium242
+
+Plutonium241
+	dustPlutonium241
+	screwPlutonium241
+	stickPlutonium241
+	dustTinyPlutonium241
+	dustSmallPlutonium241
+	platePlutonium241
+	nuggetPlutonium241
+	blockPlutonium241
+	stickLongPlutonium241
+	ingotPlutonium241
+	boltPlutonium241
+
+HotTungstenSteel
+	ingotHotTungstenSteel
+
+Epoxid
+	wireFineEpoxid
+	stickLongEpoxid
+	screwEpoxid
+	stickEpoxid
+	dustTinyEpoxid
+	dustSmallEpoxid
+	plateEpoxid
+	nuggetEpoxid
+	blockEpoxid
+	gearEpoxid
+	dustEpoxid
+	ingotEpoxid
+	boltEpoxid
+	foilEpoxid
+
+Thorium230Oxide
+	nuggetThorium230Oxide
+	ingotThorium230Oxide
+
+LeadPlatinum
+	ingotLeadPlatinum
+
+Olivine
+	boltOlivine
+	lensOlivine
+	gemOlivine
+	gemChippedOlivine
+	crushedOlivine
+	toolHeadPickaxeOlivine
+	crushedPurifiedOlivine
+	oreOlivine
+	stickLongOlivine
+	toolHeadSenseOlivine
+	toolHeadHammerOlivine
+	oreMarbleOlivine
+	oreBasaltOlivine
+	gemFlawlessOlivine
+	toolHeadHoeOlivine
+	turbineBladeOlivine
+	oreRedgraniteOlivine
+	dustPureOlivine
+	toolHeadDrillOlivine
+	dustImpureOlivine
+	toolHeadSawOlivine
+	oreEndstoneOlivine
+	toolHeadBuzzSawOlivine
+	oreBlackgraniteOlivine
+	stickOlivine
+	toolHeadShovelOlivine
+	gemExquisiteOlivine
+	toolHeadAxeOlivine
+	dustTinyOlivine
+	oreNetherrackOlivine
+	dustSmallOlivine
+	oreGravelOlivine
+	toolHeadSwordOlivine
+	toolHeadFileOlivine
+	plateOlivine
+	blockOlivine
+	oreSandOlivine
+	toolHeadChainsawOlivine
+	crushedCentrifugedOlivine
+	toolHeadWrenchOlivine
+	dustOlivine
+	toolHeadUniversalSpadeOlivine
+	gemFlawedOlivine
+
+Lithium7
+	nuggetLithium7
+	ingotLithium7
+
+Lithium6
+	nuggetLithium6
+	ingotLithium6
+
+CrystallineAlloy
+	nuggetCrystallineAlloy
+	blockCrystallineAlloy
+	ingotCrystallineAlloy
+	ballCrystallineAlloy
+
+Tungstensteel
+
+Plutonium239
+	nuggetPlutonium239
+	ingotPlutonium239
+
+Plutonium238
+	nuggetPlutonium238
+	ingotPlutonium238
+
+HotTungsten
+	ingotHotTungsten
+
+HotNaquadahAlloy
+	ingotHotNaquadahAlloy
+
+Neptunium237Base
+	ingotNeptunium237Base
+
+Zircaloy
+	ingotZircaloy
+
+LithiumManganeseDioxide
+	ingotLithiumManganeseDioxide
+
+Inferium
+	oreNetherInferium
+	oreEndInferium
+	coalInferium
+	essenceInferium
+	nuggetInferium
+	blockInferium
+	oreInferium
+	ingotInferium
+
+Californium252Base
+	ingotCalifornium252Base
+
+CocoaButter
+	ingotCocoaButter
+
+Indium
+	dustSmallIndium
+	nuggetIndium
+	blockIndium
+	dustIndium
+	ingotIndium
+	dustTinyIndium
+
+Curium245Base
+	ingotCurium245Base
+
+Tungsten
+	cableGtHexTungsten
+	wireGtDoubleTungsten
+	wireGtHexTungsten
+	toolHeadPickaxeTungsten
+	cableGtOctalTungsten
+	gearTungsten
+	stickLongTungsten
+	toolHeadSenseTungsten
+	toolHeadHammerTungsten
+	wireFineTungsten
+	toolHeadHoeTungsten
+	turbineBladeTungsten
+	toolHeadDrillTungsten
+	toolHeadSawTungsten
+	toolHeadBuzzSawTungsten
+	screwTungsten
+	wireGtOctalTungsten
+	cableGtSingleTungsten
+	stickTungsten
+	toolHeadShovelTungsten
+	toolHeadAxeTungsten
+	dustTinyTungsten
+	dustSmallTungsten
+	toolHeadSwordTungsten
+	toolHeadFileTungsten
+	wireGtQuadrupleTungsten
+	plateTungsten
+	nuggetTungsten
+	blockTungsten
+	toolHeadChainsawTungsten
+	toolHeadWrenchTungsten
+	dustTungsten
+	ingotTungsten
+	cableGtQuadrupleTungsten
+	wireGtSingleTungsten
+	toolHeadUniversalSpadeTungsten
+	cableGtDoubleTungsten
+	boltTungsten
+	foilTungsten
+
+NeodymiumMagnetic
+	wireFineNeodymiumMagnetic
+	stickLongNeodymiumMagnetic
+	screwNeodymiumMagnetic
+	stickNeodymiumMagnetic
+	dustTinyNeodymiumMagnetic
+	dustSmallNeodymiumMagnetic
+	plateNeodymiumMagnetic
+	nuggetNeodymiumMagnetic
+	blockNeodymiumMagnetic
+	gearNeodymiumMagnetic
+	dustNeodymiumMagnetic
+	ingotNeodymiumMagnetic
+	boltNeodymiumMagnetic
+	foilNeodymiumMagnetic
+
+VividAlloy
+	nuggetVividAlloy
+	blockVividAlloy
+	ingotVividAlloy
+	ballVividAlloy
+
+SiliconRubber
+	dustSmallSiliconRubber
+	foilSiliconRubber
+	plateSiliconRubber
+	nuggetSiliconRubber
+	blockSiliconRubber
+	gearSiliconRubber
+	dustSiliconRubber
+	ingotSiliconRubber
+	stickSiliconRubber
+	ringSiliconRubber
+	dustTinySiliconRubber
+
+EnchantedMetal
+	blockEnchantedMetal
+	ingotEnchantedMetal
+
+Dysprosium
+	dustSmallDysprosium
+	nuggetDysprosium
+	blockDysprosium
+	dustDysprosium
+	ingotDysprosium
+	dustTinyDysprosium
+
+Plutonium239Base
+	ingotPlutonium239Base
+
+Constantan
+	coinConstantan
+	plateConstantan
+	nuggetConstantan
+	blockConstantan
+	gearConstantan
+	blockSheetmetalConstantan
+	dustConstantan
+	ingotConstantan
+	slabConstantan
+	slabSheetmetalConstantan
+
+TitaniumAluminide
+	sheetTitaniumAluminide
+	plateTitaniumAluminide
+	nuggetTitaniumAluminide
+	blockTitaniumAluminide
+	gearTitaniumAluminide
+	dustTitaniumAluminide
+	ingotTitaniumAluminide
+	stickTitaniumAluminide
+
+Wood
+	pipeMediumWood
+	chestWood
+	pipeSmallWood
+	plankTreatedWood
+	gateWood
+	frameGtWood
+	logWood
+	fenceWood
+	blockMagicalWood
+	pipeTinyWood
+	gearWood
+	stickLongWood
+	doorWood
+	stickTreatedWood
+	slabTreatedWood
+	craftingTableWood
+	plankWood
+	stickWood
+	dustTinyWood
+	dustSmallWood
+	pipeLargeWood
+	plateWood
+	fenceTreatedWood
+	dustWood
+	stairWood
+	boltWood
+	slabWood
+
+Boron
+	dustSmallBoron
+	blockBoron
+	oreBoron
+	dustBoron
+	ingotBoron
+	dustTinyBoron
+
+Beryllium
+	blockBeryllium
+	oreMarbleBeryllium
+	oreBasaltBeryllium
+	oreRedgraniteBeryllium
+	dustPureBeryllium
+	dustImpureBeryllium
+	oreEndstoneBeryllium
+	oreBlackgraniteBeryllium
+	dustTinyBeryllium
+	oreNetherrackBeryllium
+	dustSmallBeryllium
+	oreGravelBeryllium
+	crushedBeryllium
+	plateBeryllium
+	nuggetBeryllium
+	crushedPurifiedBeryllium
+	oreSandBeryllium
+	crushedCentrifugedBeryllium
+	oreBeryllium
+	dustBeryllium
+	ingotBeryllium
+
+Americium241Oxide
+	nuggetAmericium241Oxide
+	ingotAmericium241Oxide
+
+StellarAlloy
+	nuggetStellarAlloy
+	blockStellarAlloy
+	ingotStellarAlloy
+	ballStellarAlloy
+
+Curium246Oxide
+	nuggetCurium246Oxide
+	ingotCurium246Oxide
+
+BatteryAlloy
+	dustBatteryAlloy
+	screwBatteryAlloy
+	stickBatteryAlloy
+	dustTinyBatteryAlloy
+	dustSmallBatteryAlloy
+	plateBatteryAlloy
+	nuggetBatteryAlloy
+	blockBatteryAlloy
+	stickLongBatteryAlloy
+	ingotBatteryAlloy
+	boltBatteryAlloy
+
+Opal
+	gemFlawedOpal
+	lensOpal
+	gemOpal
+	gemChippedOpal
+	crushedOpal
+	toolHeadPickaxeOpal
+	crushedPurifiedOpal
+	oreOpal
+	stickLongOpal
+	toolHeadSenseOpal
+	toolHeadHammerOpal
+	oreMarbleOpal
+	oreBasaltOpal
+	gemFlawlessOpal
+	toolHeadHoeOpal
+	turbineBladeOpal
+	oreRedgraniteOpal
+	dustPureOpal
+	toolHeadDrillOpal
+	dustImpureOpal
+	toolHeadSawOpal
+	oreEndstoneOpal
+	toolHeadBuzzSawOpal
+	oreBlackgraniteOpal
+	stickOpal
+	toolHeadShovelOpal
+	gemExquisiteOpal
+	toolHeadAxeOpal
+	dustTinyOpal
+	oreNetherrackOpal
+	dustSmallOpal
+	oreGravelOpal
+	toolHeadSwordOpal
+	toolHeadFileOpal
+	plateOpal
+	blockOpal
+	oreSandOpal
+	toolHeadChainsawOpal
+	crushedCentrifugedOpal
+	toolHeadWrenchOpal
+	dustOpal
+	toolHeadUniversalSpadeOpal
+	boltOpal
+
+DarkChocolate
+	ingotDarkChocolate
+
+Thorium
+	crushedThorium
+	toolHeadPickaxeThorium
+	crushedPurifiedThorium
+	oreThorium
+	toolHeadSenseThorium
+	toolHeadHammerThorium
+	oreMarbleThorium
+	oreBasaltThorium
+	toolHeadHoeThorium
+	turbineBladeThorium
+	oreRedgraniteThorium
+	dustPureThorium
+	toolHeadDrillThorium
+	dustImpureThorium
+	toolHeadSawThorium
+	oreEndstoneThorium
+	toolHeadBuzzSawThorium
+	oreBlackgraniteThorium
+	toolHeadShovelThorium
+	toolHeadAxeThorium
+	dustTinyThorium
+	oreNetherrackThorium
+	dustSmallThorium
+	oreGravelThorium
+	toolHeadSwordThorium
+	toolHeadFileThorium
+	plateThorium
+	nuggetThorium
+	blockThorium
+	oreSandThorium
+	toolHeadChainsawThorium
+	crushedCentrifugedThorium
+	toolHeadWrenchThorium
+	dustThorium
+	ingotThorium
+	toolHeadUniversalSpadeThorium
+
+Californium251Oxide
+	nuggetCalifornium251Oxide
+	ingotCalifornium251Oxide
+
+HotUltimet
+	ingotHotUltimet
+
+Chocolate
+	ingotChocolate
+
+Crystaltine
+	nuggetCrystaltine
+	blockCrystaltine
+	ingotCrystaltine
+
+StyreneButadieneRubber
+	blockRawStyreneButadieneRubber
+	dustSmallRawStyreneButadieneRubber
+	stickStyreneButadieneRubber
+	dustTinyStyreneButadieneRubber
+	dustSmallStyreneButadieneRubber
+	dustTinyRawStyreneButadieneRubber
+	plateStyreneButadieneRubber
+	nuggetStyreneButadieneRubber
+	blockStyreneButadieneRubber
+	gearStyreneButadieneRubber
+	dustRawStyreneButadieneRubber
+	dustStyreneButadieneRubber
+	ingotStyreneButadieneRubber
+	ringStyreneButadieneRubber
+
+HotNiobiumTitanium
+	ingotHotNiobiumTitanium
+
+AstralStarmetal
+	oreAstralStarmetal
+	dustAstralStarmetal
+	ingotAstralStarmetal
+
+Palladium
+	cableGtHexPalladium
+	wireGtDoublePalladium
+	wireGtHexPalladium
+	crushedPalladium
+	toolHeadPickaxePalladium
+	crushedPurifiedPalladium
+	cableGtOctalPalladium
+	gearPalladium
+	orePalladium
+	stickLongPalladium
+	toolHeadSensePalladium
+	toolHeadHammerPalladium
+	wireFinePalladium
+	oreMarblePalladium
+	oreBasaltPalladium
+	toolHeadHoePalladium
+	turbineBladePalladium
+	oreRedgranitePalladium
+	dustPurePalladium
+	toolHeadDrillPalladium
+	dustImpurePalladium
+	toolHeadSawPalladium
+	oreEndstonePalladium
+	toolHeadBuzzSawPalladium
+	oreBlackgranitePalladium
+	screwPalladium
+	wireGtOctalPalladium
+	cableGtSinglePalladium
+	stickPalladium
+	toolHeadShovelPalladium
+	toolHeadAxePalladium
+	dustTinyPalladium
+	oreNetherrackPalladium
+	dustSmallPalladium
+	oreGravelPalladium
+	toolHeadSwordPalladium
+	toolHeadFilePalladium
+	wireGtQuadruplePalladium
+	platePalladium
+	nuggetPalladium
+	blockPalladium
+	oreSandPalladium
+	toolHeadChainsawPalladium
+	crushedCentrifugedPalladium
+	toolHeadWrenchPalladium
+	dustPalladium
+	ingotPalladium
+	cableGtQuadruplePalladium
+	wireGtSinglePalladium
+	toolHeadUniversalSpadePalladium
+	cableGtDoublePalladium
+	boltPalladium
+	foilPalladium
+
+HotNaquadria
+	ingotHotNaquadria
+
+Americium242Base
+	ingotAmericium242Base
+
+Titanium
+	springTitanium
+	pipeMediumTitanium
+	pipeSmallTitanium
+	plateDenseTitanium
+	sheetTitanium
+	frameGtTitanium
+	cableGtHexTitanium
+	pipeTinyTitanium
+	wireGtDoubleTitanium
+	wireGtHexTitanium
+	rotorTitanium
+	coilTitanium
+	toolHeadPickaxeTitanium
+	cableGtOctalTitanium
+	gearTitanium
+	oreTitanium
+	stickLongTitanium
+	toolHeadSenseTitanium
+	ringTitanium
+	toolHeadHammerTitanium
+	wireFineTitanium
+	toolHeadHoeTitanium
+	turbineBladeTitanium
+	toolHeadDrillTitanium
+	toolHeadSawTitanium
+	toolHeadBuzzSawTitanium
+	gearSmallTitanium
+	screwTitanium
+	wireGtOctalTitanium
+	cableGtSingleTitanium
+	stickTitanium
+	toolHeadShovelTitanium
+	toolHeadAxeTitanium
+	dustTinyTitanium
+	dustSmallTitanium
+	toolHeadSwordTitanium
+	toolHeadFileTitanium
+	wireGtQuadrupleTitanium
+	pipeLargeTitanium
+	plateTitanium
+	nuggetTitanium
+	blockTitanium
+	toolHeadChainsawTitanium
+	toolHeadWrenchTitanium
+	dustTitanium
+	ingotTitanium
+	cableGtQuadrupleTitanium
+	wireGtSingleTitanium
+	toolHeadUniversalSpadeTitanium
+	cableGtDoubleTitanium
+	boltTitanium
+	foilTitanium
+
+Plutonium242Base
+	ingotPlutonium242Base
+
+NiobiumTitanium
+	cableGtHexNiobiumTitanium
+	wireGtDoubleNiobiumTitanium
+	wireGtHexNiobiumTitanium
+	cableGtOctalNiobiumTitanium
+	gearNiobiumTitanium
+	stickLongNiobiumTitanium
+	wireFineNiobiumTitanium
+	screwNiobiumTitanium
+	wireGtOctalNiobiumTitanium
+	cableGtSingleNiobiumTitanium
+	stickNiobiumTitanium
+	dustTinyNiobiumTitanium
+	dustSmallNiobiumTitanium
+	wireGtQuadrupleNiobiumTitanium
+	plateNiobiumTitanium
+	nuggetNiobiumTitanium
+	blockNiobiumTitanium
+	dustNiobiumTitanium
+	ingotNiobiumTitanium
+	cableGtQuadrupleNiobiumTitanium
+	wireGtSingleNiobiumTitanium
+	cableGtDoubleNiobiumTitanium
+	boltNiobiumTitanium
+	foilNiobiumTitanium
+
+Holmium
+	dustSmallHolmium
+	nuggetHolmium
+	blockHolmium
+	dustHolmium
+	ingotHolmium
+	dustTinyHolmium
+
+VanadiumGallium
+	cableGtHexVanadiumGallium
+	wireGtOctalVanadiumGallium
+	cableGtSingleVanadiumGallium
+	stickVanadiumGallium
+	wireGtDoubleVanadiumGallium
+	dustTinyVanadiumGallium
+	wireGtHexVanadiumGallium
+	dustSmallVanadiumGallium
+	wireGtQuadrupleVanadiumGallium
+	plateVanadiumGallium
+	nuggetVanadiumGallium
+	blockVanadiumGallium
+	cableGtOctalVanadiumGallium
+	dustVanadiumGallium
+	ingotVanadiumGallium
+	cableGtQuadrupleVanadiumGallium
+	wireGtSingleVanadiumGallium
+	cableGtDoubleVanadiumGallium
+	foilVanadiumGallium
+
+Europium
+	dustSmallEuropium
+	plateEuropium
+	nuggetEuropium
+	blockEuropium
+	dustEuropium
+	ingotEuropium
+	stickEuropium
+	dustTinyEuropium
+
+Soulium
+	nuggetSoulium
+	blockSoulium
+	ingotSoulium
+
+Iridium
+	coinIridium
+	rotorIridium
+	coilIridium
+	crushedIridium
+	toolHeadPickaxeIridium
+	crushedPurifiedIridium
+	gearIridium
+	oreIridium
+	stickLongIridium
+	toolHeadSenseIridium
+	ringIridium
+	toolHeadHammerIridium
+	wireFineIridium
+	oreMarbleIridium
+	oreBasaltIridium
+	toolHeadHoeIridium
+	turbineBladeIridium
+	oreRedgraniteIridium
+	dustPureIridium
+	toolHeadDrillIridium
+	dustImpureIridium
+	toolHeadSawIridium
+	oreEndstoneIridium
+	toolHeadBuzzSawIridium
+	oreBlackgraniteIridium
+	screwIridium
+	stickIridium
+	toolHeadShovelIridium
+	toolHeadAxeIridium
+	dustTinyIridium
+	oreNetherrackIridium
+	dustSmallIridium
+	oreGravelIridium
+	toolHeadSwordIridium
+	toolHeadFileIridium
+	plateIridium
+	nuggetIridium
+	blockIridium
+	oreSandIridium
+	toolHeadChainsawIridium
+	crushedCentrifugedIridium
+	toolHeadWrenchIridium
+	dustIridium
+	ingotIridium
+	toolHeadUniversalSpadeIridium
+	boltIridium
+	foilIridium
+
+Uranium233
+	nuggetUranium233
+	ingotUranium233
+
+Superium
+	ingotSuperium
+	essenceSuperium
+	nuggetSuperium
+	blockSuperium
+	coalSuperium
+
+Electrum
+	cableGtHexElectrum
+	blockSheetmetalElectrum
+	wireGtDoubleElectrum
+	slabSheetmetalElectrum
+	wireGtHexElectrum
+	coinElectrum
+	cableGtOctalElectrum
+	gearElectrum
+	stickLongElectrum
+	wireElectrum
+	wireFineElectrum
+	screwElectrum
+	wireGtOctalElectrum
+	cableGtSingleElectrum
+	stickElectrum
+	dustTinyElectrum
+	dustSmallElectrum
+	wireGtQuadrupleElectrum
+	plateElectrum
+	nuggetElectrum
+	blockElectrum
+	dustElectrum
+	ingotElectrum
+	cableGtQuadrupleElectrum
+	wireGtSingleElectrum
+	cableGtDoubleElectrum
+	boltElectrum
+	foilElectrum
+	slabElectrum
+
+Ultimet
+	toolHeadPickaxeUltimet
+	gearUltimet
+	stickLongUltimet
+	toolHeadSenseUltimet
+	toolHeadHammerUltimet
+	wireFineUltimet
+	toolHeadHoeUltimet
+	turbineBladeUltimet
+	toolHeadDrillUltimet
+	toolHeadSawUltimet
+	toolHeadBuzzSawUltimet
+	screwUltimet
+	stickUltimet
+	toolHeadShovelUltimet
+	toolHeadAxeUltimet
+	dustTinyUltimet
+	dustSmallUltimet
+	toolHeadSwordUltimet
+	toolHeadFileUltimet
+	plateUltimet
+	nuggetUltimet
+	blockUltimet
+	toolHeadChainsawUltimet
+	toolHeadWrenchUltimet
+	dustUltimet
+	ingotUltimet
+	toolHeadUniversalSpadeUltimet
+	boltUltimet
+	foilUltimet
+
+ManganeseDioxide
+	dustManganeseDioxide
+	ingotManganeseDioxide
+
+Berkelium247Base
+	ingotBerkelium247Base
+
+Berkelium248Base
+	ingotBerkelium248Base
+
+Gallium
+	dustSmallGallium
+	plateGallium
+	nuggetGallium
+	blockGallium
+	dustGallium
+	ingotGallium
+	dustTinyGallium
+
+ElectricalSteel
+	nuggetElectricalSteel
+	blockElectricalSteel
+	ingotElectricalSteel
+	ballElectricalSteel
+
+Gadolinium
+	dustSmallGadolinium
+	nuggetGadolinium
+	blockGadolinium
+	dustGadolinium
+	ingotGadolinium
+	dustTinyGadolinium
+
+HotVanadiumGallium
+	ingotHotVanadiumGallium
+
+RefinedGlowstone
+	nuggetRefinedGlowstone
+	blockRefinedGlowstone
+	ingotRefinedGlowstone
+
+Bronze
+	pipeMediumBronze
+	pipeSmallBronze
+	plateDenseBronze
+	frameGtBronze
+	pipeTinyBronze
+	coinBronze
+	rotorBronze
+	toolHeadPickaxeBronze
+	gearBronze
+	stickLongBronze
+	toolHeadSenseBronze
+	ringBronze
+	toolHeadHammerBronze
+	wireFineBronze
+	toolHeadHoeBronze
+	turbineBladeBronze
+	toolHeadDrillBronze
+	toolHeadSawBronze
+	toolHeadBuzzSawBronze
+	screwBronze
+	stickBronze
+	toolHeadShovelBronze
+	toolHeadAxeBronze
+	dustTinyBronze
+	dustSmallBronze
+	toolHeadSwordBronze
+	toolHeadFileBronze
+	pipeLargeBronze
+	plateBronze
+	nuggetBronze
+	blockBronze
+	toolHeadChainsawBronze
+	toolHeadWrenchBronze
+	dustBronze
+	ingotBronze
+	toolHeadUniversalSpadeBronze
+	boltBronze
+	foilBronze
+
+Zinc
+	cableGtHexZinc
+	wireGtDoubleZinc
+	wireGtHexZinc
+	crushedZinc
+	orePoorZinc
+	crushedPurifiedZinc
+	cableGtOctalZinc
+	oreZinc
+	oreMarbleZinc
+	oreBasaltZinc
+	oreRedgraniteZinc
+	dustPureZinc
+	dustImpureZinc
+	oreEndstoneZinc
+	oreBlackgraniteZinc
+	wireGtOctalZinc
+	cableGtSingleZinc
+	dustTinyZinc
+	oreNetherrackZinc
+	dustSmallZinc
+	oreGravelZinc
+	wireGtQuadrupleZinc
+	plateZinc
+	nuggetZinc
+	blockZinc
+	oreSandZinc
+	crushedCentrifugedZinc
+	dustZinc
+	ingotZinc
+	cableGtQuadrupleZinc
+	wireGtSingleZinc
+	cableGtDoubleZinc
+	foilZinc
+
+Alubrass
+	nuggetAlubrass
+	blockAlubrass
+	ingotAlubrass
+
+Promethium
+	dustPromethium
+	screwPromethium
+	stickPromethium
+	dustTinyPromethium
+	dustSmallPromethium
+	platePromethium
+	nuggetPromethium
+	blockPromethium
+	stickLongPromethium
+	ingotPromethium
+	boltPromethium
+
+Uranium235Base
+	ingotUranium235Base
+
+HotHsss
+	ingotHotHsss
+
+Polytetrafluoroethylene
+	dustSmallPolytetrafluoroethylene
+	dustTinyPolytetrafluoroethylene
+	pipeLargePolytetrafluoroethylene
+	platePolytetrafluoroethylene
+	nuggetPolytetrafluoroethylene
+	blockPolytetrafluoroethylene
+	dustPolytetrafluoroethylene
+	ingotPolytetrafluoroethylene
+	pipeMediumPolytetrafluoroethylene
+	pipeTinyPolytetrafluoroethylene
+	pipeSmallPolytetrafluoroethylene
+
+Neptunium237
+	nuggetNeptunium237
+	blockNeptunium237
+	ingotNeptunium237
+
+Neptunium236
+	nuggetNeptunium236
+	ingotNeptunium236
+
+Thorium232Oxide
+	nuggetThorium232Oxide
+	ingotThorium232Oxide
+
+Lanthanum
+	dustSmallLanthanum
+	nuggetLanthanum
+	blockLanthanum
+	dustLanthanum
+	ingotLanthanum
+	dustTinyLanthanum
+
+HotHssg
+	ingotHotHssg
+
+HotHsse
+	ingotHotHsse
+
+Darmstadtium
+	frameGtDarmstadtium
+	rotorDarmstadtium
+	toolHeadPickaxeDarmstadtium
+	gearDarmstadtium
+	stickLongDarmstadtium
+	toolHeadSenseDarmstadtium
+	ringDarmstadtium
+	toolHeadHammerDarmstadtium
+	wireFineDarmstadtium
+	toolHeadHoeDarmstadtium
+	turbineBladeDarmstadtium
+	toolHeadDrillDarmstadtium
+	toolHeadSawDarmstadtium
+	toolHeadBuzzSawDarmstadtium
+	gearSmallDarmstadtium
+	screwDarmstadtium
+	stickDarmstadtium
+	toolHeadShovelDarmstadtium
+	toolHeadAxeDarmstadtium
+	dustTinyDarmstadtium
+	dustSmallDarmstadtium
+	toolHeadSwordDarmstadtium
+	toolHeadFileDarmstadtium
+	plateDarmstadtium
+	nuggetDarmstadtium
+	blockDarmstadtium
+	toolHeadChainsawDarmstadtium
+	toolHeadWrenchDarmstadtium
+	dustDarmstadtium
+	ingotDarmstadtium
+	toolHeadUniversalSpadeDarmstadtium
+	boltDarmstadtium
+	foilDarmstadtium
+
+Antimony
+	dustAntimony
+	screwAntimony
+	stickAntimony
+	dustTinyAntimony
+	dustSmallAntimony
+	plateAntimony
+	nuggetAntimony
+	blockAntimony
+	stickLongAntimony
+	ingotAntimony
+	boltAntimony
+
+Americium243Base
+	ingotAmericium243Base
+
+Gold
+	crystalGold
+	plateDenseGold
+	cableGtHexGold
+	blockSheetmetalGold
+	wireGtDoubleGold
+	dustDirtyGold
+	slabSheetmetalGold
+	wireGtHexGold
+	shardGold
+	coinGold
+	coilGold
+	crushedGold
+	orePoorGold
+	crushedPurifiedGold
+	cableGtOctalGold
+	gearGold
+	oreGold
+	stickLongGold
+	clusterGold
+	clumpGold
+	wireFineGold
+	oreMarbleGold
+	oreBasaltGold
+	oreRedgraniteGold
+	dustPureGold
+	dustImpureGold
+	oreEndstoneGold
+	oreBlackgraniteGold
+	screwGold
+	wireGtOctalGold
+	cableGtSingleGold
+	stickGold
+	dustTinyGold
+	oreNetherrackGold
+	dustSmallGold
+	oreGravelGold
+	wireGtQuadrupleGold
+	plateGold
+	nuggetGold
+	blockGold
+	oreSandGold
+	crushedCentrifugedGold
+	dustGold
+	ingotGold
+	cableGtQuadrupleGold
+	wireGtSingleGold
+	cableGtDoubleGold
+	boltGold
+	foilGold
+
+Thorium230Base
+	ingotThorium230Base
+
+Californium250Oxide
+	nuggetCalifornium250Oxide
+	ingotCalifornium250Oxide
+
+RefinedIron
+	ingotRefinedIron
+
+VanadiumSteel
+	toolHeadPickaxeVanadiumSteel
+	gearVanadiumSteel
+	stickLongVanadiumSteel
+	toolHeadSenseVanadiumSteel
+	toolHeadHammerVanadiumSteel
+	wireFineVanadiumSteel
+	toolHeadHoeVanadiumSteel
+	turbineBladeVanadiumSteel
+	toolHeadDrillVanadiumSteel
+	toolHeadSawVanadiumSteel
+	toolHeadBuzzSawVanadiumSteel
+	screwVanadiumSteel
+	stickVanadiumSteel
+	toolHeadShovelVanadiumSteel
+	toolHeadAxeVanadiumSteel
+	dustTinyVanadiumSteel
+	dustSmallVanadiumSteel
+	toolHeadSwordVanadiumSteel
+	toolHeadFileVanadiumSteel
+	plateVanadiumSteel
+	nuggetVanadiumSteel
+	blockVanadiumSteel
+	toolHeadChainsawVanadiumSteel
+	toolHeadWrenchVanadiumSteel
+	dustVanadiumSteel
+	ingotVanadiumSteel
+	toolHeadUniversalSpadeVanadiumSteel
+	boltVanadiumSteel
+	foilVanadiumSteel
+
+Amethyst
+	gemFlawedAmethyst
+	lensAmethyst
+	gemAmethyst
+	gemChippedAmethyst
+	crushedAmethyst
+	toolHeadPickaxeAmethyst
+	crushedPurifiedAmethyst
+	oreAmethyst
+	stickLongAmethyst
+	toolHeadSenseAmethyst
+	toolHeadHammerAmethyst
+	oreMarbleAmethyst
+	oreBasaltAmethyst
+	gemFlawlessAmethyst
+	toolHeadHoeAmethyst
+	turbineBladeAmethyst
+	oreRedgraniteAmethyst
+	dustPureAmethyst
+	toolHeadDrillAmethyst
+	dustImpureAmethyst
+	toolHeadSawAmethyst
+	oreEndstoneAmethyst
+	toolHeadBuzzSawAmethyst
+	oreBlackgraniteAmethyst
+	stickAmethyst
+	toolHeadShovelAmethyst
+	gemExquisiteAmethyst
+	toolHeadAxeAmethyst
+	dustTinyAmethyst
+	oreNetherrackAmethyst
+	dustSmallAmethyst
+	oreGravelAmethyst
+	toolHeadSwordAmethyst
+	toolHeadFileAmethyst
+	plateAmethyst
+	blockAmethyst
+	oreSandAmethyst
+	toolHeadChainsawAmethyst
+	crushedCentrifugedAmethyst
+	toolHeadWrenchAmethyst
+	dustAmethyst
+	toolHeadUniversalSpadeAmethyst
+	boltAmethyst
+
+HotTitanium
+	ingotHotTitanium
+
+NickelZincFerrite
+	dustNickelZincFerrite
+	screwNickelZincFerrite
+	stickNickelZincFerrite
+	dustTinyNickelZincFerrite
+	dustSmallNickelZincFerrite
+	plateNickelZincFerrite
+	nuggetNickelZincFerrite
+	blockNickelZincFerrite
+	stickLongNickelZincFerrite
+	ingotNickelZincFerrite
+	boltNickelZincFerrite
+
+Strontium
+	dustSmallStrontium
+	plateStrontium
+	nuggetStrontium
+	blockStrontium
+	dustStrontium
+	ingotStrontium
+	dustTinyStrontium
+
+Platinum
+	cableGtHexPlatinum
+	wireGtDoublePlatinum
+	wireGtHexPlatinum
+	coinPlatinum
+	crushedPlatinum
+	crushedPurifiedPlatinum
+	cableGtOctalPlatinum
+	gearPlatinum
+	orePlatinum
+	stickLongPlatinum
+	wireFinePlatinum
+	oreMarblePlatinum
+	oreBasaltPlatinum
+	oreRedgranitePlatinum
+	dustPurePlatinum
+	dustImpurePlatinum
+	oreEndstonePlatinum
+	oreBlackgranitePlatinum
+	screwPlatinum
+	wireGtOctalPlatinum
+	cableGtSinglePlatinum
+	stickPlatinum
+	dustTinyPlatinum
+	oreNetherrackPlatinum
+	dustSmallPlatinum
+	oreGravelPlatinum
+	wireGtQuadruplePlatinum
+	platePlatinum
+	nuggetPlatinum
+	blockPlatinum
+	oreSandPlatinum
+	crushedCentrifugedPlatinum
+	dustPlatinum
+	ingotPlatinum
+	cableGtQuadruplePlatinum
+	wireGtSinglePlatinum
+	cableGtDoublePlatinum
+	boltPlatinum
+	foilPlatinum
+
+Plutonium242Oxide
+	nuggetPlutonium242Oxide
+	ingotPlutonium242Oxide
+
+Potassium
+	dustPotassium
+	screwPotassium
+	stickPotassium
+	dustTinyPotassium
+	dustSmallPotassium
+	platePotassium
+	nuggetPotassium
+	blockPotassium
+	stickLongPotassium
+	ingotPotassium
+	boltPotassium
+
+Prudentium
+	coalPrudentium
+	essencePrudentium
+	nuggetPrudentium
+	blockPrudentium
+	ingotPrudentium
+
+EvilMetal
+	blockEvilMetal
+	ingotEvilMetal
+
+HotThulium
+	ingotHotThulium
+
+Lumium
+	coinLumium
+	itemGrindingBallLumium
+	plateLumium
+	nuggetLumium
+	blockLumium
+	gearLumium
+	dustLumium
+	ingotLumium
+
+CobaltBrass
+	toolHeadPickaxeCobaltBrass
+	gearCobaltBrass
+	stickLongCobaltBrass
+	toolHeadSenseCobaltBrass
+	toolHeadHammerCobaltBrass
+	wireFineCobaltBrass
+	toolHeadHoeCobaltBrass
+	turbineBladeCobaltBrass
+	toolHeadDrillCobaltBrass
+	toolHeadSawCobaltBrass
+	toolHeadBuzzSawCobaltBrass
+	screwCobaltBrass
+	stickCobaltBrass
+	toolHeadShovelCobaltBrass
+	toolHeadAxeCobaltBrass
+	dustTinyCobaltBrass
+	dustSmallCobaltBrass
+	toolHeadSwordCobaltBrass
+	toolHeadFileCobaltBrass
+	plateCobaltBrass
+	nuggetCobaltBrass
+	blockCobaltBrass
+	toolHeadChainsawCobaltBrass
+	toolHeadWrenchCobaltBrass
+	dustCobaltBrass
+	ingotCobaltBrass
+	toolHeadUniversalSpadeCobaltBrass
+	boltCobaltBrass
+	foilCobaltBrass
+
+Samarium
+	dustSmallSamarium
+	plateSamarium
+	nuggetSamarium
+	blockSamarium
+	dustSamarium
+	ingotSamarium
+	dustTinySamarium
+
+Curium246Base
+	ingotCurium246Base
+
+ConstructionAlloy
+	nuggetConstructionAlloy
+	blockConstructionAlloy
+	ingotConstructionAlloy
+	ballConstructionAlloy
+
+HotNaquadah
+	ingotHotNaquadah
+
+Polystyrene
+	dustSmallPolystyrene
+	foilPolystyrene
+	platePolystyrene
+	nuggetPolystyrene
+	blockPolystyrene
+	dustPolystyrene
+	ingotPolystyrene
+	dustTinyPolystyrene
+
+Californium252
+	nuggetCalifornium252
+	blockCalifornium252
+	ingotCalifornium252
+
+Californium251
+	nuggetCalifornium251
+	ingotCalifornium251
+
+Californium250
+	nuggetCalifornium250
+	ingotCalifornium250
+
+Copper
+	solenoidCopper
+	crystalCopper
+	slabCopper
+	pipeMediumCopper
+	pipeSmallCopper
+	plateDenseCopper
+	sheetCopper
+	cableGtHexCopper
+	blockSheetmetalCopper
+	pipeTinyCopper
+	wireGtDoubleCopper
+	dustDirtyCopper
+	slabSheetmetalCopper
+	wireGtHexCopper
+	shardCopper
+	coinCopper
+	coilCopper
+	crushedCopper
+	orePoorCopper
+	crushedPurifiedCopper
+	cableGtOctalCopper
+	gearCopper
+	oreCopper
+	stickLongCopper
+	clusterCopper
+	clumpCopper
+	wireCopper
+	wireFineCopper
+	oreMarbleCopper
+	oreBasaltCopper
+	oreRedgraniteCopper
+	dustPureCopper
+	dustImpureCopper
+	oreEndstoneCopper
+	oreBlackgraniteCopper
+	screwCopper
+	wireGtOctalCopper
+	cableGtSingleCopper
+	stickCopper
+	dustTinyCopper
+	oreNetherrackCopper
+	dustSmallCopper
+	oreGravelCopper
+	wireGtQuadrupleCopper
+	pipeLargeCopper
+	plateCopper
+	nuggetCopper
+	blockCopper
+	oreSandCopper
+	crushedCentrifugedCopper
+	dustCopper
+	ingotCopper
+	cableGtQuadrupleCopper
+	wireGtSingleCopper
+	cableGtDoubleCopper
+	boltCopper
+	foilCopper
+

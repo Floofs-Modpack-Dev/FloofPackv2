@@ -1,0 +1,42 @@
+{
+	title: "Craft Bronze",
+	icon: "gregtech:meta_item_1 1 10095",
+	x: -0.5d,
+	y: 1.5d,
+	dependencies: [
+		"95cbad43"
+	],
+	tasks: [{
+		uid: "d8a7b466",
+		type: "item",
+		title: "Bronze",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "ingotBronze",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}],
+		count: 16L,
+		consume_items: false
+	},
+	{
+		uid: "1a59cf9d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "gregtech:meta_tool",
+			tag: {
+				GT.ToolStats: {
+					Material: "bronze"
+				}
+			},
+			Damage: 6s
+		}],
+		ignore_nbt: 1b
+	}]
+}

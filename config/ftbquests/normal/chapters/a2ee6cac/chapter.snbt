@@ -1,0 +1,10 @@
+{
+	title: "Progression Tree",
+	icon: "minecraft:glowstone",
+	description: [
+		"Progression Tree"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

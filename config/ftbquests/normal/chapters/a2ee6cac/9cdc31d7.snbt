@@ -1,0 +1,17 @@
+{
+	title: "Steel Steam Tier",
+	icon: "gregtech:machine_casing 1 12",
+	x: 17.5d,
+	y: -12.0d,
+	text: [
+		"No Description"
+	],
+	dependencies: [
+		"2dd8d945"
+	],
+	rewards: [{
+		uid: "6fb223e3",
+		type: "gamestage",
+		stage: "GT_Stage_Steel_Steam"
+	}]
+}

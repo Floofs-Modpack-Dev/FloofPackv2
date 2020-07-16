@@ -1,0 +1,23 @@
+{
+	title: "GregTech LV Tier",
+	icon: "gregtech:machine 1 501",
+	x: 16.0d,
+	y: -10.5d,
+	text: [
+		"No Description"
+	],
+	dependencies: [
+		"2dd8d945",
+		"9cdc31d7"
+	],
+	rewards: [{
+		uid: "04f3d536",
+		type: "gamestage",
+		stage: "GT_Stage_LV"
+	},
+	{
+		uid: "157287fc",
+		type: "gamestage",
+		stage: "Thermal_Expansion"
+	}]
+}

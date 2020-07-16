@@ -1,0 +1,20 @@
+{
+	icon: "thermalfoundation:upgrade 1 3",
+	x: 14.5d,
+	y: -7.5d,
+	dependencies: [
+		"464a4c8f"
+	],
+	tasks: [{
+		uid: "078fd7ca",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:upgrade 1 3"
+		}]
+	},
+	{
+		uid: "08da16b3",
+		type: "gamestage",
+		stage: "Thermal_Stage_Resonant"
+	}]
+}

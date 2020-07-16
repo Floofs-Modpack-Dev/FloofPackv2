@@ -1,0 +1,17 @@
+{
+	title: "GregTech MV Tier",
+	icon: "gregtech:machine 1 502",
+	x: 16.0d,
+	y: -9.0d,
+	text: [
+		"No Description"
+	],
+	dependencies: [
+		"656b1c44"
+	],
+	rewards: [{
+		uid: "f91aef94",
+		type: "gamestage",
+		stage: "GT_Stage_MV"
+	}]
+}

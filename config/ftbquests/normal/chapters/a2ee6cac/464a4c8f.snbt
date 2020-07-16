@@ -1,0 +1,17 @@
+{
+	title: "GregTech HV Tier",
+	icon: "gregtech:machine 1 503",
+	x: 16.0d,
+	y: -7.5d,
+	text: [
+		"No Description"
+	],
+	dependencies: [
+		"0e3090ad"
+	],
+	rewards: [{
+		uid: "2341085b",
+		type: "gamestage",
+		stage: "GT_Stage_HV"
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	title: "Extended Crafting",
+	icon: "extendedcrafting:material",
+	x: 14.5d,
+	y: -13.5d,
+	dependencies: [
+		"2dd8d945"
+	],
+	dependency_requirement: "one_started",
+	rewards: [{
+		uid: "0dea5625",
+		type: "gamestage",
+		stage: "Extended_Crafting"
+	}]
+}

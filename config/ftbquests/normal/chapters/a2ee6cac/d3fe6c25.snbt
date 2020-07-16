@@ -1,0 +1,27 @@
+{
+	title: "Thermal Expansion",
+	icon: "thermalexpansion:frame",
+	x: 14.5d,
+	y: -10.5d,
+	dependencies: [
+		"656b1c44"
+	],
+	dependency_requirement: "one_started",
+	tasks: [{
+		uid: "0a86bff6",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:frame"
+		}]
+	},
+	{
+		uid: "3c3d3257",
+		type: "gamestage",
+		stage: "Thermal_Expansion"
+	}],
+	rewards: [{
+		uid: "89df7807",
+		type: "gamestage",
+		stage: "Thermal_Stage_Hardened"
+	}]
+}

@@ -1,0 +1,32 @@
+{
+	title: "Tree Unlock",
+	icon: "gregtech:meta_item_1 1 10095",
+	x: 16.0d,
+	y: -15.0d,
+	text: [
+		"No Description"
+	],
+	tasks: [{
+		uid: "6f4aa791",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ingot"
+		}],
+		count: 16L
+	},
+	{
+		uid: "e614e0bc",
+		type: "item",
+		title: "Any CoalChar",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "CoalChar",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}],
+		count: 16L
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	title: "GregTech EV Tier",
+	icon: "gregtech:machine 1 504",
+	x: 16.0d,
+	y: -6.0d,
+	text: [
+		"No Description"
+	],
+	dependencies: [
+		"464a4c8f"
+	],
+	rewards: [{
+		uid: "e15192f1",
+		type: "gamestage",
+		stage: "GT_Stage_EV"
+	}]
+}

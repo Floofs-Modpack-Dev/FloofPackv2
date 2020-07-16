@@ -1,0 +1,50 @@
+{
+	title: "Bronze Steam Tier",
+	icon: "gregtech:machine_casing 1 10",
+	x: 16.0d,
+	y: -13.5d,
+	text: [
+		"No Description"
+	],
+	dependencies: [
+		"8ab6efc7",
+		"6d42bae8"
+	],
+	tasks: [{
+		uid: "63013d18",
+		type: "item",
+		title: "Any ingotBronze",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "ingotBronze",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}],
+		count: 32L
+	},
+	{
+		uid: "d61adbf2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "gregtech:meta_tool",
+			tag: {
+				GT.ToolStats: {
+					Material: "bronze"
+				}
+			},
+			Damage: 6s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b1540744",
+		type: "gamestage",
+		stage: "GT_Stage_Bronze_Steam"
+	}]
+}

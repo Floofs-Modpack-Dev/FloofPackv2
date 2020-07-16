@@ -1,0 +1,45 @@
+{
+	title: "Getting Started GT",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "gregtech:meta_tool",
+		tag: {
+			GT.ToolStats: {
+				Material: "darmstadtium"
+			}
+		},
+		Damage: 13s
+	},
+	x: -0.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "bd5c4323",
+		type: "item",
+		title: "Copper",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "ingotCopper",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "0eb3d6ba",
+		type: "item",
+		title: "Tin",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "ingotTin",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

@@ -1,0 +1,103 @@
+{
+	title: "Tinkers Basics",
+	icon: {
+		id: "tconstruct:tooltables",
+		tag: {
+			textureBlock: {
+				id: "minecraft:planks",
+				Count: 1b,
+				Damage: 0s
+			}
+		},
+		Damage: 1s
+	},
+	x: 17.5d,
+	y: -15.0d,
+	text: [
+		"No Description"
+	],
+	tasks: [{
+		uid: "7cbdc01e",
+		type: "item",
+		title: "Any workbench",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "workbench",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6edb107b",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "minecraft:planks",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "63438edf",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "minecraft:log",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "26431c76",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables 1 3"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "f9498922",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables 1 5"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b635c1b4",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables 1 4"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "39e617b5",
+		type: "gamestage",
+		title: "Basic Tinkers",
+		icon: "tconstruct:tooltables 1 3",
+		auto: "disabled",
+		stage: "startertinkers"
+	},
+	{
+		uid: "821daadc",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}
