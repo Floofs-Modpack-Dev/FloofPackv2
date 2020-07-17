@@ -1,145 +1,146 @@
-List Of Mods As Of 22/12/2019
-
-Advanced Rocketry
-Advanced Rocketry Tweaker (AR Tweaker)
-AE2 Wireless Terminal Library
-Akashic Tome
-Applied Energistics 2
-Astral Sorcery
-AutoRegLib
-baubles
-BdLib
-Better Advancements
-Better Builders Wands
-Better Questing
-Better Questing - Quest Book
-Better Questing - Standard Expansion
-Block Drops (JEI Addon)
-Bookshelf
-Botania
-Chameleon
-Chisel
-CodeChicken Lib 1.8.+
-CoFh Core
-CoFh World
-Common Capabilities
-ComputerCraft
-ConnectedTexturesMod
-Controlling
-CraftTweaker
-Cucumber Library
-Custom Main Menu
-Cyclops Core
-Dimension Stages
-Ender IO
-Ender Tweaker
-EnderCore
-Extended Crafting
-External Tweaker  //Used For Recipe Dev
-Extra Utilities
-ExtraCells2
-FoamFix
-Forestry
-FTB Backups
-FTB Library
-FTB Utilities
-Game Stages
-Gendustry
-Gendustry JEI Addon
-GregTech Community Edition
-Hwyla
-Immersive Cables
-Immersive Engineering
-Immersive Petroleum
-Immersive Tech
-Industrial Craft
-Integrated Crafting
-Integrated Dynamics
-Integrated REST
-Integrated Terminals
-Integrated Tunnels
-Invetory Tweaks
-Iron Chests
-JEI Bees
-JourneyMap
-JourneyMapStages
-Just Enough Items (JEI)
-Just Enough Resources (JEI)
-LibVulpes
-Mantle
-McJtyLib
-Mekanism
-Mekanism Generators
-Mekanism Tools
-Mod Tweaker
-More Overlays
-Mouse Tweaks
-MTLib
-Mystical Agriculture
-NotEnoughIDs
-NuclearCraft
-OpenBlocks
-OpenModsLib
-Ore Stages
-p455w0rd's Library
-Railcraft
-ReAuth
-Redstone Flux
-Recipe Stages
-RFTools
-RFTools Control
-Storage Drawers
-Thaumcraft
-Thaumic JEI
-Thermal Dynamics
-Thermal Expansion
-Thermal Foundation
-Tinkers JEI
-Tinkers Construct
-Tinker's Complement
-Tinker's Tool Leveing
-TinkerStages
-UniDict
-WanionLib
-Wireless Crafting Terminal
-
-Added 22/12/2019
-
-IC2 Tweaker
-Demagnetize
-Just Enough Energetics (JEE)
-Just Enough Petroleum
-Just Enough Throwing in Fluids
-Lapis Stays in the Enchanting Table
-Pam's HarvestCraft
-Cooking for Blockheads
-Farming for Blockheads
-Spice of Life: Carrot Edition
-Colytra
-
-Added 6/1/2020
-Tails
-FoxLib
-Immersive Floofs
-Immersive Railroading
-
-Added 10/1/2020
-CEU
-Apple Skin 
-
-Added 15/1/2020
-IE Cloche Compat
-Mystical Agradditions
-Fast Leave Decay
-Thaumic Inventory Scanning
-Thaumic Tinkerer
-Thaumic Energistics
-Crafting Tweaks
-Research Table
-Kiwi
-Waila Harvestability
-Together Forever
-Toast Control
-
-Added 22/1/2020
-Item Stages
+Name					Version			Author(s)
+AE2 Wireless Terminals (AE2WTLib)	1.12.2-1.0.34		TheRealp455w0rd
+Advanced Rocketry			1.7.0.-225	
+Advanced Rocketry Core			1			Zmaster587
+Advanced Rocketry Tweaker		1.0.0	
+Akashic Tome				1.2-12			Vazkii
+AppleCore				3.4.0			squeek
+AppleSkin				1.0.14			squeek
+Applied Energistics 2			rv6-stable-7		AlgorithmX2
+Astral Sorcery				1.10.22			HellFirePvP, wiiv
+AutoRegLib				1.3-32			Vazkii
+BD Lib					1.14.3.12		bdew
+Baubles					1.12-1.5.2		Azanor
+Better Advancements			0.1.0			way2muchnoise
+Better Builder's Wands			0.13.2			Portablejim
+Block Drops				1.12.2-1.4.0		MrRiegel
+Bookshelf				2.3.590			darkhax, lclc98
+Botania					r1.10-363		Vazkii, williewillus, wiiv, dylan4ever
+Botania Tweaks				1.9.0			quaternary
+CEU					1.0.4.3			Tictim
+CTM					MC1.12.2-1.0.2.31	tterrag, Drullkus, minecreatr
+Chameleon				1.12-4.1.3		jaquadro
+Chisel					MC1.12.2-1.0.2.45	tterrag, Drullkus, minecreatr
+CoFH Core				4.6.6.1			Team CoFH
+CoFH World				1.4.0.1			Team CoFH
+CodeChicken Lib				3.2.3.358		ChickenBones, covers1624
+Colytra					1.12.2-1.2.0.4		C4
+CommonCapabilities			1.12.2-2.4.6		rubensworks (aka kroeserr)
+ComputerCraft				1.80pr1	
+Controlling				3.0.9			Jaredlll08
+Cooking for Blockheads			6.5.0			BlayTheNinth
+CraftTweaker2				1.12-4.1.20.576		StanHebben, Jaredlll08
+Crafting Tweaks				8.1.9			BlayTheNinth
+Cucumber Library			1.1.3			BlakeBr0
+Custom Main Menu			2.0.9.1			lumien
+Cyclops Core				1.12.2-1.6.4		rubensworks (aka kroeserr), immortaleeb (aka _EeB_)
+Demagnetize				1.12.2-1.1.1		comp500
+Dimension Stages			2.0.23			Darkhax
+Ender IO				5.2.59			CrazyPants, tterrag, HenryLoenwind, MatthiasM, CyanideX, EpicSquid
+EnderCore				1.12.2-0.5.76		tterrag, CrazyPants, HenryLoenwind
+EnderTweaker				1.12.2-1.2.0		Shadows_of_Fire
+Extended Crafting			1.5.6			BlakeBr0
+External Tweaker			0.3			Bartz24
+Extra Cells 2				2.6.5			M3gaFr3ak, DrummerMC
+Extra Utilities 2			${version}		RWTema
+FTB Backups				1.1.0.1			LatvianModder
+FTB Guides				2.0.0.52		LatvianModder
+FTB Library				5.4.7.2			LatvianModder
+FTB Money				1.1.0.42		LatvianModder
+FTB Quests				1.9.0.10		LatvianModder
+FTB Quests Importer			forge-1.12.2-1.1.10	LatvianModder, MaxNeedsSnacks
+FTB Tutorial Mod			1.0.0.11		LatvianModder
+FTB Utilities				5.4.1.129		LatvianModder
+Farming for Blockheads			3.1.28			BlayTheNinth
+Fast Leaf Decay				v14			Olafski
+FoamFix					@VERSION@		asiekierka
+FoamFixCore				7.7.4			asie
+Forestry				5.8.2.422		SirSengir, mezz
+Game Stages				2.0.123			Darkhax
+GenDustry				1.6.5.8			bdew
+Gendustry JEI Addon			1.0.2			Ninjabrain1
+GregTech Community Edition		1.9.2.515		Archengius, Exidex
+Hardcore Item Stages			1.0			Tschipp
+IE Cloche Compat			2.1.7-dev.454		NicJames2378
+Immersive Cables			1.3.2			SanAndreasP
+Immersive Engineering			0.12-98			BluSunrize, Damien A.W. Hazard
+Immersive Floofs			1.0.0	
+Immersive Petroleum			1.1.9			Flaxbeard
+Immersive Railroading			1.7.3			Christian Mesh (cam72cam), TheLegend5550 , WrongWeekend, DennisTheCan, Thomas4peyton, Larky2k, FriedrichLP, TartaricAcid, gaojie429, StuffedCroc, Fleegle411
+Immersive Tech				1.3.10			FerroO2000
+InWorldCrafting				1.12.2-1.1.2		xt9 (IterationFunk)
+IndustrialCraft 2			2.8.220-ex112		Alblaka, Player, RichardG, Thunderdark, GregoriusT, alexthesax, Drashian, Elementalist, Feanturi, Lurch1985, SirusKing, tahu44, Aroma1997, estebes, Chocohead
+Integrated Crafting			1.12.2-1.0.9		rubensworks (aka kroeserr)
+Integrated Dynamics			1.12.2-1.1.6		rubensworks (aka kroeserr)
+Integrated REST				1.12.2-1.1.1		rubensworks (aka kroeserr)
+Integrated Terminals			1.12.2-1.0.13		rubensworks (aka kroeserr)
+Integrated Tunnels			1.12.2-1.6.11		rubensworks (aka kroeserr)
+Inventory Tweaks			1.64+dev.151.822d839	
+Iron Chest				1.12.2-7.0.67.844	cpw
+Item Filters				1.0.4.2			LatvianModder
+Item Stages				2.0.51			Darkhax
+JEI Bees				0.9.0.5			bdew
+JourneyMap				1.12.2-5.7.1		techbrew, mysticdrew
+Just Enough Energistics			1.12.2-1.0.8		TheRealp455w0rd
+Just Enough Items			4.15.0.294		mezz
+Just Enough Petroleum			0.1			BordListian
+Just Enough Resources			0.9.2			way2muchnoise
+Just Enough Throwing In Fluids		1.12.2-1.5.2		Lykrast
+Kiwi					0.5.3.32		Snownee, 3TUSK
+Lapis Stays in the Enchanting Table	1.1.3			crazysnailboy
+MTLib					3.0.6			Jaredlll08
+Mantle					1.3.3.55		boni, progWML6, Alexbegt
+McJtyLib				1.12-3.5.4		McJty
+Mekanism				1.12.2-9.8.3.390	aidancbrady, thommy101, thiakil, pupnewfster, dizzyd
+Mekanism: Generators			1.12.2-9.8.3.390	aidancbrady, thommy101, thiakil, pupnewfster, dizzyd
+Mekanism: Tools				1.12.2-9.8.3.390	aidancbrady, thommy101, thiakil, pupnewfster, dizzyd
+Minecraft Forge				14.23.5.2854		LexManos, cpw, fry
+Mod Tweaker				4.0.18			Jaredlll08
+ModLister				1.12.2-3.2.4		iChun, Quetzi
+MoreOverlays				1.15.1			feldim2425
+Mouse Tweaks				2.10			YaLTeR
+Mystical Agradditions			1.3.2			BlakeBr0
+Mystical Agriculture			1.7.3			BlakeBr0
+NotEnoughIDs				1.5.4.4			fewizz, Player
+NuclearCraft				2.18v-1.12.2		tomdodd4598
+OpenBlocks				1.8.1			Mikee, NeverCast, boq, Lyqyd
+OpenModsLib				0.12.2			Mikee, NeverCast, boq, Lyqyd
+OpenModsLib Core			0.12.2			Mikee, NeverCast, boq
+Ore Stages				2.0.38			Darkhax, Jaredlll08
+Pam's HarvestCraft			1.12.2zg		Pamela Collins
+Placebo					1.12.2-1.6.0		Shadows_of_Fire
+RFTools					1.12-7.73		McJty
+RFTools Control				1.12-2.0.2		McJty
+RFTools Dimensions			1.12-5.71		McJty
+Railcraft				12.0.0			CovertJaguar
+ReAuth					3.6.0			TechnicianLP
+RecipeStages				1.1.3			Jared
+Redstone Flux				2.1.1.1			Team CoFH
+ResearchTable				0.9.5			Snownee
+Spice of Life: Carrot Edition		1.8.4			Cazsius, Talonos, juliand665
+Storage Drawers				1.12.2-5.4.2		jaquadro
+Tails					1.12-1.10.0	
+Thaumcraft				6.1.BETA26		Azanor
+Thaumic Energistics			2.2.4			Nividica, BrockWS
+Thaumic Tinkerer			1.12.2-5.0-620a0c5	nekosune
+ThaumicJEI				1.12.2-1.6.0-27		Buuz135
+Thermal Dynamics			2.5.6.1			Team CoFH
+Thermal Expansion			5.5.7.1			Team CoFH
+Thermal Foundation			2.6.7.1			Team CoFH
+Tinker Stages				2.0.17			Darkhax
+Tinker's JEI				1.2			possible_triangle
+Tinkers Tool Leveling			1.12.2-1.1.0		boni
+Tinkers' Complement			1.12.2-0.4.3		KnightMiner
+Tinkers' Construct			1.12.2-2.13.0.183	boni, KnightMiner
+Toast Control				1.12.2-1.8.1	
+TogetherForever				1.12.2-1.0.12-22	Buuz135
+Track API				1.2			cam72cam
+UniDict					1.12.2-2.9.6		WanionCane
+UniversalModCore			1.0.0	
+Vulpes library				0.4.2.-75	
+Waila					1.8.26			ProfMobius, TehNut
+Waila Harvestability			1.1.12			squeek
+WanionLib				1.12.2-2.4		WanionCane
+Wireless Crafting Terminal 2		1.12.2-3.12.97		TheRealp455w0rd
+You're an expert, Harry!		1.1.2			quaternary
+p455w0rd's Library			1.12.2-2.3.161		TheRealp455w0rd
